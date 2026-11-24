@@ -1,0 +1,29 @@
+{
+ "name": "v2_optimise_contraint",
+ "weights": {
+  "budget": 0.3179,
+  "logement": 0.2023,
+  "presence": 0.0797,
+  "enfants": 0.0725,
+  "experience": 0.1273,
+  "activite": 0.068,
+  "sante": 0.0254,
+  "preference": 0.1069
+ },
+ "seuil_score": 0.4864904907889325,
+ "budget_tol": 1.2599013305886626,
+ "chronic_cost_uplift": 0.25,
+ "waking_hours": 16.0,
+ "solitude_scale": 1.5,
+ "cost_quantile": 0.6,
+ "use_race_overrides": false,
+ "hard_rules": [
+  "budget",
+  "logement",
+  "solitude",
+  "enfants",
+  "experience"
+ ],
+ "race_experience_hard": false,
+ "use_preference": true
+}

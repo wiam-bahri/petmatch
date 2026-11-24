@@ -1,0 +1,1001 @@
+ID_Adoptant,Wilaya,Type_Logement,Budget_Mensuel_DZD,Heures_Presence_Jour,Espece,Race,Taille_Foyer,Nombre_Enfants,Experience_Animaux,Cible_Compatible
+ADOPT_0001,25 - Constantine,Appartement F2,35000,3,Reptile,Bearded Dragon,6,2,Expert,1
+ADOPT_0002,09 - Blida,Maison traditionnelle,20000,5,Rabbit,Holland Lop,5,0,Expert,0
+ADOPT_0003,06 - Béjaïa,Appartement F3,35000,11,Cat,Persian,3,4,Débutant,1
+ADOPT_0004,19 - Sétif,Villa avec jardin/cour,15000,3,Fish,Betta,1,2,Intermédiaire,1
+ADOPT_0005,06 - Béjaïa,Appartement F4,25000,10,Cat,Abyssinian,1,2,Intermédiaire,1
+ADOPT_0006,19 - Sétif,Appartement F4,50000,11,Cat,Persian,2,4,Expert,1
+ADOPT_0007,09 - Blida,Appartement F3,50000,3,Cat,Domestic Shorthair,4,2,Intermédiaire,1
+ADOPT_0008,23 - Annaba,Appartement F3,15000,12,Bird,Cockatiel,6,2,Débutant,1
+ADOPT_0009,13 - Tlemcen,Maison traditionnelle,35000,6,Rabbit,Netherland Dwarf,6,1,Expert,1
+ADOPT_0010,16 - Alger,Appartement F4,50000,7,Rabbit,Netherland Dwarf,4,0,Intermédiaire,1
+ADOPT_0011,06 - Béjaïa,Maison traditionnelle,35000,8,Cat,Siamese,6,2,Intermédiaire,1
+ADOPT_0012,15 - Tizi Ouzou,Appartement F3,12000,6,Dog,Labrador Retriever,6,4,Expert,0
+ADOPT_0013,25 - Constantine,Villa avec jardin/cour,15000,10,Bird,Lovebird,4,1,Débutant,1
+ADOPT_0014,13 - Tlemcen,Appartement F2,12000,11,Fish,Guppy,1,1,Intermédiaire,1
+ADOPT_0015,16 - Alger,Villa avec jardin/cour,25000,12,Bird,Lovebird,6,2,Débutant,1
+ADOPT_0016,13 - Tlemcen,Appartement F4,50000,4,Reptile,Corn Snake,4,2,Débutant,0
+ADOPT_0017,31 - Oran,Maison traditionnelle,50000,12,Reptile,Red-Eared Slider Turtle,3,1,Expert,1
+ADOPT_0018,15 - Tizi Ouzou,Appartement F3,12000,10,Rabbit,Rex,1,2,Expert,1
+ADOPT_0019,23 - Annaba,Appartement F2,8000,5,Small Mammal,Gerbil,1,2,Débutant,1
+ADOPT_0020,31 - Oran,Appartement F2,35000,10,Rabbit,Holland Lop,2,3,Débutant,0
+ADOPT_0021,47 - Ghardaïa,Maison traditionnelle,12000,8,Reptile,Leopard Gecko,2,2,Expert,1
+ADOPT_0022,15 - Tizi Ouzou,Appartement F4,20000,9,Fish,Betta,1,2,Débutant,1
+ADOPT_0023,15 - Tizi Ouzou,Appartement F4,8000,5,Dog,French Bulldog,5,4,Débutant,0
+ADOPT_0024,19 - Sétif,Appartement F2,12000,3,Cat,Domestic Shorthair,5,0,Débutant,1
+ADOPT_0025,47 - Ghardaïa,Appartement F3,25000,11,Small Mammal,Gerbil,4,1,Débutant,1
+ADOPT_0026,13 - Tlemcen,Villa avec jardin/cour,12000,7,Fish,Tetra,4,0,Intermédiaire,0
+ADOPT_0027,19 - Sétif,Appartement F2,8000,3,Bird,African Grey Parrot,2,3,Débutant,0
+ADOPT_0028,25 - Constantine,Villa avec jardin/cour,12000,6,Dog,Siberian Husky,4,3,Débutant,0
+ADOPT_0029,31 - Oran,Villa avec jardin/cour,50000,2,Fish,Guppy,6,4,Expert,0
+ADOPT_0030,06 - Béjaïa,Appartement F2,50000,9,Fish,Guppy,2,1,Intermédiaire,1
+ADOPT_0031,23 - Annaba,Villa avec jardin/cour,8000,9,Cat,Siamese,3,3,Intermédiaire,0
+ADOPT_0032,16 - Alger,Villa avec jardin/cour,12000,11,Reptile,Corn Snake,6,1,Expert,1
+ADOPT_0033,06 - Béjaïa,Appartement F2,8000,10,Cat,Abyssinian,5,4,Débutant,0
+ADOPT_0034,31 - Oran,Appartement F2,50000,12,Cat,Persian,2,1,Intermédiaire,0
+ADOPT_0035,31 - Oran,Appartement F3,25000,8,Cat,Persian,6,4,Expert,0
+ADOPT_0036,19 - Sétif,Appartement F4,15000,5,Rabbit,Rex,3,1,Intermédiaire,1
+ADOPT_0037,47 - Ghardaïa,Villa avec jardin/cour,15000,11,Dog,Labrador Retriever,1,0,Débutant,0
+ADOPT_0038,31 - Oran,Maison traditionnelle,15000,5,Rabbit,Netherland Dwarf,3,1,Intermédiaire,1
+ADOPT_0039,15 - Tizi Ouzou,Maison traditionnelle,35000,2,Dog,Dachshund,6,2,Expert,1
+ADOPT_0040,15 - Tizi Ouzou,Appartement F3,15000,4,Small Mammal,Chinchilla,3,0,Intermédiaire,1
+ADOPT_0041,23 - Annaba,Appartement F4,12000,2,Rabbit,Netherland Dwarf,1,2,Expert,1
+ADOPT_0042,25 - Constantine,Appartement F2,8000,12,Bird,Cockatiel,3,2,Débutant,0
+ADOPT_0043,31 - Oran,Maison traditionnelle,35000,3,Reptile,Leopard Gecko,6,3,Débutant,1
+ADOPT_0044,25 - Constantine,Appartement F4,25000,2,Rabbit,Holland Lop,3,4,Intermédiaire,0
+ADOPT_0045,19 - Sétif,Appartement F4,12000,10,Fish,Guppy,4,1,Expert,1
+ADOPT_0046,25 - Constantine,Appartement F3,50000,8,Reptile,Ball Python,1,1,Débutant,1
+ADOPT_0047,31 - Oran,Villa avec jardin/cour,50000,8,Reptile,Red-Eared Slider Turtle,1,1,Intermédiaire,1
+ADOPT_0048,09 - Blida,Villa avec jardin/cour,15000,5,Dog,Shih Tzu,1,2,Expert,1
+ADOPT_0049,23 - Annaba,Appartement F4,15000,7,Dog,Dachshund,6,0,Expert,1
+ADOPT_0050,23 - Annaba,Appartement F4,8000,4,Bird,Lovebird,5,0,Intermédiaire,0
+ADOPT_0051,19 - Sétif,Maison traditionnelle,20000,8,Cat,Domestic Shorthair,5,2,Expert,1
+ADOPT_0052,13 - Tlemcen,Maison traditionnelle,12000,2,Cat,British Shorthair,5,2,Expert,0
+ADOPT_0053,19 - Sétif,Appartement F4,20000,11,Reptile,Ball Python,3,0,Expert,1
+ADOPT_0054,19 - Sétif,Appartement F4,25000,8,Fish,Guppy,6,2,Intermédiaire,1
+ADOPT_0055,25 - Constantine,Appartement F3,20000,11,Rabbit,Netherland Dwarf,5,3,Intermédiaire,1
+ADOPT_0056,47 - Ghardaïa,Appartement F2,15000,11,Bird,Lovebird,6,2,Intermédiaire,1
+ADOPT_0057,25 - Constantine,Villa avec jardin/cour,35000,12,Bird,Macaw,1,1,Intermédiaire,1
+ADOPT_0058,23 - Annaba,Appartement F4,8000,5,Rabbit,Rex,2,1,Débutant,0
+ADOPT_0059,31 - Oran,Appartement F3,20000,9,Cat,Domestic Shorthair,4,4,Expert,1
+ADOPT_0060,16 - Alger,Villa avec jardin/cour,20000,3,Rabbit,Netherland Dwarf,4,3,Débutant,1
+ADOPT_0061,09 - Blida,Villa avec jardin/cour,8000,3,Dog,Siberian Husky,4,4,Débutant,0
+ADOPT_0062,19 - Sétif,Maison traditionnelle,25000,9,Fish,Tetra,5,4,Expert,0
+ADOPT_0063,06 - Béjaïa,Maison traditionnelle,20000,9,Rabbit,Flemish Giant,3,1,Débutant,1
+ADOPT_0064,31 - Oran,Maison traditionnelle,20000,6,Fish,Goldfish,2,1,Intermédiaire,1
+ADOPT_0065,13 - Tlemcen,Maison traditionnelle,8000,4,Small Mammal,Hamster,6,1,Débutant,1
+ADOPT_0066,16 - Alger,Villa avec jardin/cour,15000,5,Cat,British Shorthair,4,4,Intermédiaire,1
+ADOPT_0067,13 - Tlemcen,Appartement F2,50000,9,Fish,Angelfish,1,4,Intermédiaire,0
+ADOPT_0068,09 - Blida,Villa avec jardin/cour,25000,9,Small Mammal,Gerbil,2,4,Intermédiaire,1
+ADOPT_0069,13 - Tlemcen,Appartement F2,20000,4,Bird,Macaw,4,2,Débutant,1
+ADOPT_0070,47 - Ghardaïa,Appartement F2,20000,12,Rabbit,Rex,1,4,Débutant,0
+ADOPT_0071,23 - Annaba,Appartement F3,50000,8,Reptile,Leopard Gecko,3,3,Débutant,1
+ADOPT_0072,13 - Tlemcen,Appartement F4,50000,6,Bird,Cockatiel,1,3,Intermédiaire,1
+ADOPT_0073,16 - Alger,Appartement F2,15000,2,Cat,Persian,2,1,Débutant,1
+ADOPT_0074,31 - Oran,Maison traditionnelle,12000,11,Fish,Guppy,2,1,Intermédiaire,0
+ADOPT_0075,31 - Oran,Appartement F4,12000,4,Reptile,Red-Eared Slider Turtle,3,4,Débutant,1
+ADOPT_0076,09 - Blida,Appartement F4,25000,3,Rabbit,Holland Lop,5,3,Expert,1
+ADOPT_0077,47 - Ghardaïa,Appartement F2,35000,3,Fish,Betta,5,2,Débutant,1
+ADOPT_0078,19 - Sétif,Villa avec jardin/cour,35000,2,Small Mammal,Guinea Pig,4,2,Intermédiaire,0
+ADOPT_0079,13 - Tlemcen,Appartement F4,35000,4,Cat,British Shorthair,6,3,Expert,1
+ADOPT_0080,06 - Béjaïa,Maison traditionnelle,50000,8,Reptile,Red-Eared Slider Turtle,6,4,Expert,1
+ADOPT_0081,06 - Béjaïa,Appartement F3,50000,5,Small Mammal,Hamster,4,0,Expert,1
+ADOPT_0082,19 - Sétif,Appartement F4,8000,4,Rabbit,Flemish Giant,4,3,Débutant,0
+ADOPT_0083,23 - Annaba,Appartement F4,15000,10,Small Mammal,Hamster,1,4,Expert,1
+ADOPT_0084,09 - Blida,Appartement F3,35000,9,Dog,French Bulldog,6,3,Expert,1
+ADOPT_0085,09 - Blida,Appartement F2,8000,8,Bird,Macaw,6,2,Débutant,0
+ADOPT_0086,13 - Tlemcen,Appartement F4,20000,10,Small Mammal,Guinea Pig,3,4,Intermédiaire,1
+ADOPT_0087,09 - Blida,Appartement F4,15000,7,Reptile,Leopard Gecko,1,2,Expert,1
+ADOPT_0088,47 - Ghardaïa,Appartement F3,12000,10,Rabbit,Netherland Dwarf,5,3,Intermédiaire,1
+ADOPT_0089,16 - Alger,Appartement F4,12000,10,Cat,Siamese,2,2,Intermédiaire,1
+ADOPT_0090,06 - Béjaïa,Maison traditionnelle,15000,3,Cat,Domestic Shorthair,1,1,Expert,1
+ADOPT_0091,16 - Alger,Villa avec jardin/cour,20000,6,Small Mammal,Gerbil,4,2,Débutant,1
+ADOPT_0092,16 - Alger,Villa avec jardin/cour,20000,4,Fish,Guppy,2,0,Expert,1
+ADOPT_0093,47 - Ghardaïa,Appartement F3,8000,11,Small Mammal,Chinchilla,5,4,Débutant,1
+ADOPT_0094,23 - Annaba,Villa avec jardin/cour,20000,11,Fish,Angelfish,4,3,Intermédiaire,0
+ADOPT_0095,09 - Blida,Appartement F2,25000,12,Rabbit,Rex,2,0,Intermédiaire,1
+ADOPT_0096,25 - Constantine,Appartement F3,12000,2,Reptile,Bearded Dragon,4,1,Intermédiaire,1
+ADOPT_0097,23 - Annaba,Villa avec jardin/cour,15000,9,Reptile,Corn Snake,1,0,Expert,1
+ADOPT_0098,15 - Tizi Ouzou,Maison traditionnelle,35000,5,Dog,Labrador Retriever,6,1,Débutant,1
+ADOPT_0099,47 - Ghardaïa,Appartement F2,8000,11,Small Mammal,Ferret,3,1,Intermédiaire,1
+ADOPT_0100,15 - Tizi Ouzou,Appartement F4,35000,10,Cat,British Shorthair,4,3,Intermédiaire,1
+ADOPT_0101,16 - Alger,Appartement F2,20000,3,Cat,Persian,2,2,Expert,1
+ADOPT_0102,47 - Ghardaïa,Maison traditionnelle,8000,2,Fish,Angelfish,2,2,Intermédiaire,0
+ADOPT_0103,06 - Béjaïa,Appartement F4,12000,3,Rabbit,Flemish Giant,4,4,Intermédiaire,1
+ADOPT_0104,19 - Sétif,Appartement F4,35000,8,Bird,Cockatiel,6,0,Intermédiaire,1
+ADOPT_0105,23 - Annaba,Maison traditionnelle,8000,7,Small Mammal,Gerbil,1,3,Intermédiaire,0
+ADOPT_0106,06 - Béjaïa,Appartement F2,35000,8,Fish,Angelfish,1,4,Débutant,0
+ADOPT_0107,16 - Alger,Maison traditionnelle,50000,5,Rabbit,Mini Lop,3,3,Expert,1
+ADOPT_0108,47 - Ghardaïa,Villa avec jardin/cour,35000,5,Dog,Labrador Retriever,6,3,Débutant,0
+ADOPT_0109,31 - Oran,Appartement F2,25000,5,Small Mammal,Guinea Pig,1,3,Intermédiaire,0
+ADOPT_0110,23 - Annaba,Villa avec jardin/cour,35000,8,Cat,Siamese,4,2,Intermédiaire,1
+ADOPT_0111,09 - Blida,Maison traditionnelle,12000,11,Dog,Dachshund,5,3,Expert,0
+ADOPT_0112,15 - Tizi Ouzou,Appartement F4,50000,6,Dog,French Bulldog,1,3,Intermédiaire,1
+ADOPT_0113,06 - Béjaïa,Maison traditionnelle,25000,10,Reptile,Red-Eared Slider Turtle,4,3,Intermédiaire,1
+ADOPT_0114,09 - Blida,Maison traditionnelle,20000,5,Small Mammal,Guinea Pig,5,3,Intermédiaire,1
+ADOPT_0115,13 - Tlemcen,Appartement F2,15000,8,Dog,Dachshund,6,3,Expert,0
+ADOPT_0116,47 - Ghardaïa,Appartement F2,12000,7,Dog,Dachshund,1,4,Intermédiaire,0
+ADOPT_0117,13 - Tlemcen,Villa avec jardin/cour,8000,12,Cat,Persian,2,1,Débutant,0
+ADOPT_0118,19 - Sétif,Appartement F4,25000,12,Bird,Cockatiel,5,3,Intermédiaire,1
+ADOPT_0119,23 - Annaba,Maison traditionnelle,8000,5,Small Mammal,Gerbil,6,4,Débutant,0
+ADOPT_0120,16 - Alger,Appartement F2,20000,2,Bird,African Grey Parrot,3,1,Débutant,1
+ADOPT_0121,13 - Tlemcen,Appartement F4,20000,11,Small Mammal,Hamster,6,1,Débutant,1
+ADOPT_0122,47 - Ghardaïa,Appartement F2,25000,12,Dog,Shih Tzu,2,3,Intermédiaire,0
+ADOPT_0123,16 - Alger,Appartement F3,20000,9,Rabbit,Netherland Dwarf,3,2,Expert,1
+ADOPT_0124,23 - Annaba,Appartement F2,20000,12,Rabbit,Netherland Dwarf,4,2,Expert,1
+ADOPT_0125,31 - Oran,Appartement F4,12000,5,Small Mammal,Gerbil,4,3,Expert,1
+ADOPT_0126,13 - Tlemcen,Appartement F4,35000,6,Small Mammal,Guinea Pig,1,2,Expert,0
+ADOPT_0127,23 - Annaba,Maison traditionnelle,35000,5,Fish,Guppy,5,3,Intermédiaire,0
+ADOPT_0128,16 - Alger,Maison traditionnelle,15000,6,Dog,Shih Tzu,4,1,Débutant,1
+ADOPT_0129,19 - Sétif,Appartement F3,8000,8,Rabbit,Mini Lop,2,2,Débutant,0
+ADOPT_0130,25 - Constantine,Appartement F4,25000,6,Dog,Siberian Husky,4,4,Intermédiaire,1
+ADOPT_0131,09 - Blida,Appartement F2,20000,12,Reptile,Red-Eared Slider Turtle,6,0,Expert,0
+ADOPT_0132,16 - Alger,Appartement F4,8000,6,Bird,Lovebird,5,3,Débutant,0
+ADOPT_0133,19 - Sétif,Appartement F4,25000,3,Bird,Cockatiel,6,3,Débutant,1
+ADOPT_0134,09 - Blida,Maison traditionnelle,25000,12,Bird,African Grey Parrot,1,2,Expert,1
+ADOPT_0135,31 - Oran,Appartement F4,35000,4,Fish,Tetra,1,3,Débutant,0
+ADOPT_0136,25 - Constantine,Appartement F2,8000,8,Small Mammal,Gerbil,4,1,Intermédiaire,1
+ADOPT_0137,31 - Oran,Villa avec jardin/cour,25000,9,Reptile,Corn Snake,5,1,Intermédiaire,1
+ADOPT_0138,09 - Blida,Appartement F4,12000,7,Small Mammal,Chinchilla,1,3,Expert,1
+ADOPT_0139,31 - Oran,Appartement F4,8000,9,Small Mammal,Guinea Pig,1,3,Expert,1
+ADOPT_0140,09 - Blida,Appartement F2,8000,4,Dog,Siberian Husky,5,2,Débutant,0
+ADOPT_0141,09 - Blida,Appartement F3,25000,7,Cat,Persian,2,1,Expert,1
+ADOPT_0142,25 - Constantine,Appartement F3,12000,3,Cat,Abyssinian,6,4,Débutant,1
+ADOPT_0143,16 - Alger,Appartement F4,50000,4,Dog,French Bulldog,3,1,Débutant,1
+ADOPT_0144,06 - Béjaïa,Maison traditionnelle,8000,9,Dog,Dachshund,3,0,Expert,0
+ADOPT_0145,16 - Alger,Villa avec jardin/cour,25000,12,Rabbit,Holland Lop,5,1,Intermédiaire,1
+ADOPT_0146,31 - Oran,Appartement F2,20000,9,Bird,African Grey Parrot,6,3,Intermédiaire,1
+ADOPT_0147,23 - Annaba,Appartement F4,25000,11,Cat,Domestic Shorthair,6,1,Expert,0
+ADOPT_0148,15 - Tizi Ouzou,Villa avec jardin/cour,25000,11,Rabbit,Mini Lop,4,4,Débutant,1
+ADOPT_0149,09 - Blida,Maison traditionnelle,35000,8,Fish,Guppy,3,1,Intermédiaire,1
+ADOPT_0150,23 - Annaba,Appartement F2,15000,7,Bird,Macaw,2,3,Expert,1
+ADOPT_0151,31 - Oran,Appartement F2,50000,7,Bird,African Grey Parrot,2,0,Expert,0
+ADOPT_0152,13 - Tlemcen,Maison traditionnelle,25000,7,Cat,Persian,6,2,Intermédiaire,1
+ADOPT_0153,47 - Ghardaïa,Appartement F4,25000,10,Fish,Guppy,2,2,Débutant,1
+ADOPT_0154,15 - Tizi Ouzou,Appartement F3,50000,7,Reptile,Leopard Gecko,1,0,Intermédiaire,1
+ADOPT_0155,47 - Ghardaïa,Villa avec jardin/cour,50000,11,Rabbit,Netherland Dwarf,6,4,Expert,1
+ADOPT_0156,23 - Annaba,Maison traditionnelle,35000,6,Rabbit,Holland Lop,3,2,Intermédiaire,0
+ADOPT_0157,16 - Alger,Appartement F3,25000,3,Cat,Siamese,6,3,Expert,0
+ADOPT_0158,23 - Annaba,Villa avec jardin/cour,20000,7,Dog,Dachshund,5,2,Expert,1
+ADOPT_0159,31 - Oran,Appartement F3,12000,6,Cat,Domestic Shorthair,4,4,Expert,0
+ADOPT_0160,15 - Tizi Ouzou,Maison traditionnelle,20000,3,Bird,Macaw,3,3,Intermédiaire,1
+ADOPT_0161,16 - Alger,Maison traditionnelle,20000,5,Cat,Abyssinian,4,4,Expert,1
+ADOPT_0162,23 - Annaba,Appartement F3,15000,6,Cat,Domestic Shorthair,3,1,Débutant,1
+ADOPT_0163,09 - Blida,Villa avec jardin/cour,12000,10,Cat,British Shorthair,5,1,Expert,1
+ADOPT_0164,06 - Béjaïa,Appartement F2,20000,3,Fish,Goldfish,3,0,Expert,1
+ADOPT_0165,13 - Tlemcen,Villa avec jardin/cour,35000,2,Bird,Lovebird,3,3,Débutant,1
+ADOPT_0166,31 - Oran,Villa avec jardin/cour,50000,5,Fish,Angelfish,4,2,Expert,0
+ADOPT_0167,09 - Blida,Appartement F2,20000,7,Bird,Lovebird,2,2,Débutant,1
+ADOPT_0168,19 - Sétif,Maison traditionnelle,25000,7,Rabbit,Holland Lop,6,1,Expert,1
+ADOPT_0169,23 - Annaba,Appartement F3,8000,5,Fish,Betta,2,1,Expert,0
+ADOPT_0170,47 - Ghardaïa,Appartement F3,50000,11,Dog,French Bulldog,4,3,Expert,1
+ADOPT_0171,31 - Oran,Appartement F4,50000,9,Rabbit,Rex,4,2,Expert,1
+ADOPT_0172,23 - Annaba,Maison traditionnelle,8000,9,Small Mammal,Hamster,4,2,Débutant,1
+ADOPT_0173,47 - Ghardaïa,Appartement F4,8000,11,Cat,Abyssinian,5,0,Intermédiaire,0
+ADOPT_0174,47 - Ghardaïa,Maison traditionnelle,50000,12,Bird,Lovebird,2,0,Intermédiaire,1
+ADOPT_0175,19 - Sétif,Maison traditionnelle,12000,3,Rabbit,Flemish Giant,5,0,Expert,1
+ADOPT_0176,15 - Tizi Ouzou,Appartement F3,35000,10,Dog,French Bulldog,5,3,Débutant,1
+ADOPT_0177,47 - Ghardaïa,Appartement F4,20000,2,Small Mammal,Hamster,6,3,Expert,1
+ADOPT_0178,23 - Annaba,Appartement F4,8000,6,Small Mammal,Chinchilla,6,4,Expert,1
+ADOPT_0179,25 - Constantine,Appartement F4,8000,7,Rabbit,Netherland Dwarf,3,4,Expert,0
+ADOPT_0180,13 - Tlemcen,Appartement F3,25000,12,Reptile,Leopard Gecko,3,0,Débutant,1
+ADOPT_0181,16 - Alger,Appartement F2,35000,7,Reptile,Corn Snake,3,3,Débutant,1
+ADOPT_0182,25 - Constantine,Villa avec jardin/cour,12000,4,Dog,Labrador Retriever,1,1,Intermédiaire,0
+ADOPT_0183,15 - Tizi Ouzou,Maison traditionnelle,50000,2,Fish,Guppy,6,4,Intermédiaire,0
+ADOPT_0184,25 - Constantine,Appartement F3,25000,4,Fish,Angelfish,2,3,Expert,0
+ADOPT_0185,16 - Alger,Appartement F3,35000,8,Fish,Angelfish,3,3,Expert,0
+ADOPT_0186,06 - Béjaïa,Villa avec jardin/cour,25000,5,Reptile,Ball Python,5,2,Débutant,1
+ADOPT_0187,06 - Béjaïa,Appartement F3,15000,6,Small Mammal,Gerbil,4,4,Expert,1
+ADOPT_0188,25 - Constantine,Appartement F3,50000,6,Rabbit,Flemish Giant,1,1,Expert,1
+ADOPT_0189,31 - Oran,Maison traditionnelle,8000,6,Bird,Cockatiel,1,4,Débutant,0
+ADOPT_0190,09 - Blida,Maison traditionnelle,12000,9,Small Mammal,Gerbil,3,3,Débutant,0
+ADOPT_0191,31 - Oran,Villa avec jardin/cour,25000,7,Bird,African Grey Parrot,2,2,Débutant,1
+ADOPT_0192,23 - Annaba,Appartement F4,50000,9,Small Mammal,Chinchilla,6,1,Débutant,0
+ADOPT_0193,16 - Alger,Villa avec jardin/cour,25000,6,Fish,Tetra,2,0,Débutant,1
+ADOPT_0194,09 - Blida,Maison traditionnelle,20000,6,Rabbit,Rex,1,0,Débutant,1
+ADOPT_0195,06 - Béjaïa,Maison traditionnelle,20000,11,Dog,Dachshund,5,0,Débutant,0
+ADOPT_0196,16 - Alger,Maison traditionnelle,12000,11,Reptile,Corn Snake,3,1,Débutant,1
+ADOPT_0197,19 - Sétif,Appartement F3,35000,3,Rabbit,Flemish Giant,5,0,Expert,1
+ADOPT_0198,06 - Béjaïa,Maison traditionnelle,8000,2,Rabbit,Rex,6,3,Intermédiaire,0
+ADOPT_0199,31 - Oran,Appartement F2,15000,11,Small Mammal,Hamster,6,0,Intermédiaire,1
+ADOPT_0200,25 - Constantine,Appartement F4,25000,12,Dog,French Bulldog,4,2,Expert,1
+ADOPT_0201,16 - Alger,Appartement F3,8000,6,Bird,Budgerigar (Budgie),2,3,Débutant,0
+ADOPT_0202,15 - Tizi Ouzou,Appartement F2,15000,9,Fish,Betta,3,2,Débutant,1
+ADOPT_0203,19 - Sétif,Appartement F4,15000,6,Fish,Betta,1,0,Intermédiaire,1
+ADOPT_0204,06 - Béjaïa,Villa avec jardin/cour,20000,9,Bird,Macaw,3,2,Expert,1
+ADOPT_0205,25 - Constantine,Villa avec jardin/cour,8000,10,Small Mammal,Chinchilla,3,3,Intermédiaire,1
+ADOPT_0206,47 - Ghardaïa,Appartement F4,35000,8,Cat,Domestic Shorthair,2,2,Expert,1
+ADOPT_0207,47 - Ghardaïa,Villa avec jardin/cour,8000,8,Bird,Cockatiel,3,2,Expert,0
+ADOPT_0208,19 - Sétif,Appartement F2,35000,10,Fish,Guppy,6,3,Expert,0
+ADOPT_0209,06 - Béjaïa,Appartement F3,50000,2,Dog,French Bulldog,2,4,Débutant,1
+ADOPT_0210,25 - Constantine,Appartement F4,20000,12,Dog,Labrador Retriever,4,4,Intermédiaire,0
+ADOPT_0211,13 - Tlemcen,Appartement F2,25000,7,Small Mammal,Gerbil,6,1,Intermédiaire,1
+ADOPT_0212,06 - Béjaïa,Appartement F2,35000,10,Dog,French Bulldog,4,1,Expert,0
+ADOPT_0213,47 - Ghardaïa,Appartement F4,35000,6,Cat,Abyssinian,6,3,Intermédiaire,1
+ADOPT_0214,06 - Béjaïa,Appartement F3,50000,3,Dog,French Bulldog,6,0,Intermédiaire,1
+ADOPT_0215,23 - Annaba,Appartement F2,25000,4,Reptile,Red-Eared Slider Turtle,6,4,Expert,1
+ADOPT_0216,09 - Blida,Appartement F4,25000,4,Reptile,Ball Python,2,1,Intermédiaire,0
+ADOPT_0217,15 - Tizi Ouzou,Maison traditionnelle,25000,4,Cat,Abyssinian,5,2,Débutant,1
+ADOPT_0218,13 - Tlemcen,Villa avec jardin/cour,35000,11,Cat,Abyssinian,1,3,Débutant,1
+ADOPT_0219,15 - Tizi Ouzou,Villa avec jardin/cour,20000,12,Small Mammal,Chinchilla,5,4,Débutant,1
+ADOPT_0220,15 - Tizi Ouzou,Villa avec jardin/cour,25000,4,Fish,Betta,3,0,Débutant,1
+ADOPT_0221,31 - Oran,Appartement F3,15000,6,Dog,Labrador Retriever,2,4,Expert,1
+ADOPT_0222,31 - Oran,Appartement F3,35000,10,Rabbit,Mini Lop,6,2,Débutant,1
+ADOPT_0223,47 - Ghardaïa,Appartement F3,12000,7,Rabbit,Rex,5,4,Débutant,1
+ADOPT_0224,23 - Annaba,Appartement F2,8000,12,Fish,Guppy,2,4,Expert,0
+ADOPT_0225,23 - Annaba,Appartement F2,20000,9,Bird,Lovebird,2,4,Expert,1
+ADOPT_0226,25 - Constantine,Villa avec jardin/cour,8000,9,Bird,Cockatiel,4,0,Intermédiaire,0
+ADOPT_0227,19 - Sétif,Appartement F4,25000,7,Bird,Budgerigar (Budgie),4,1,Débutant,1
+ADOPT_0228,06 - Béjaïa,Maison traditionnelle,25000,3,Fish,Goldfish,3,0,Intermédiaire,1
+ADOPT_0229,13 - Tlemcen,Appartement F2,8000,11,Dog,Shih Tzu,4,2,Débutant,0
+ADOPT_0230,25 - Constantine,Appartement F4,25000,9,Fish,Betta,5,2,Intermédiaire,1
+ADOPT_0231,13 - Tlemcen,Villa avec jardin/cour,8000,10,Bird,Cockatiel,4,0,Débutant,0
+ADOPT_0232,23 - Annaba,Appartement F4,8000,9,Dog,Siberian Husky,5,0,Expert,0
+ADOPT_0233,13 - Tlemcen,Appartement F4,25000,4,Reptile,Leopard Gecko,3,0,Expert,1
+ADOPT_0234,15 - Tizi Ouzou,Appartement F4,8000,5,Small Mammal,Gerbil,3,3,Expert,0
+ADOPT_0235,23 - Annaba,Villa avec jardin/cour,25000,11,Small Mammal,Chinchilla,6,3,Expert,1
+ADOPT_0236,19 - Sétif,Appartement F2,20000,10,Cat,Siamese,3,2,Débutant,1
+ADOPT_0237,16 - Alger,Maison traditionnelle,20000,4,Dog,Siberian Husky,6,4,Intermédiaire,0
+ADOPT_0238,15 - Tizi Ouzou,Maison traditionnelle,20000,4,Fish,Tetra,3,1,Expert,1
+ADOPT_0239,15 - Tizi Ouzou,Villa avec jardin/cour,25000,10,Small Mammal,Ferret,5,2,Intermédiaire,1
+ADOPT_0240,31 - Oran,Appartement F4,20000,8,Reptile,Corn Snake,5,0,Intermédiaire,1
+ADOPT_0241,47 - Ghardaïa,Maison traditionnelle,20000,11,Fish,Guppy,2,2,Expert,1
+ADOPT_0242,47 - Ghardaïa,Villa avec jardin/cour,12000,8,Cat,Persian,2,4,Expert,1
+ADOPT_0243,06 - Béjaïa,Maison traditionnelle,35000,7,Dog,French Bulldog,4,0,Débutant,1
+ADOPT_0244,16 - Alger,Villa avec jardin/cour,25000,4,Bird,Budgerigar (Budgie),5,4,Débutant,1
+ADOPT_0245,25 - Constantine,Villa avec jardin/cour,25000,9,Rabbit,Mini Lop,5,3,Intermédiaire,1
+ADOPT_0246,09 - Blida,Appartement F4,25000,6,Rabbit,Mini Lop,5,3,Intermédiaire,1
+ADOPT_0247,06 - Béjaïa,Appartement F4,35000,7,Dog,Labrador Retriever,4,1,Intermédiaire,1
+ADOPT_0248,15 - Tizi Ouzou,Appartement F4,8000,8,Rabbit,Mini Lop,4,4,Intermédiaire,0
+ADOPT_0249,31 - Oran,Appartement F4,8000,7,Fish,Betta,4,2,Expert,0
+ADOPT_0250,15 - Tizi Ouzou,Appartement F3,12000,6,Small Mammal,Gerbil,2,4,Débutant,1
+ADOPT_0251,15 - Tizi Ouzou,Appartement F3,12000,5,Rabbit,Rex,6,0,Débutant,1
+ADOPT_0252,25 - Constantine,Villa avec jardin/cour,15000,2,Cat,Domestic Shorthair,5,3,Débutant,0
+ADOPT_0253,23 - Annaba,Villa avec jardin/cour,35000,7,Bird,Macaw,3,1,Expert,1
+ADOPT_0254,16 - Alger,Maison traditionnelle,12000,4,Cat,Domestic Shorthair,4,4,Débutant,1
+ADOPT_0255,16 - Alger,Villa avec jardin/cour,12000,6,Cat,British Shorthair,5,2,Expert,1
+ADOPT_0256,25 - Constantine,Appartement F4,20000,10,Cat,Abyssinian,4,4,Intermédiaire,1
+ADOPT_0257,23 - Annaba,Appartement F4,12000,4,Dog,French Bulldog,1,3,Expert,0
+ADOPT_0258,13 - Tlemcen,Maison traditionnelle,35000,8,Small Mammal,Hamster,5,1,Intermédiaire,1
+ADOPT_0259,09 - Blida,Appartement F2,12000,2,Cat,British Shorthair,3,1,Intermédiaire,1
+ADOPT_0260,47 - Ghardaïa,Appartement F4,15000,2,Dog,Dachshund,3,2,Expert,1
+ADOPT_0261,25 - Constantine,Appartement F2,35000,8,Small Mammal,Ferret,6,0,Expert,1
+ADOPT_0262,09 - Blida,Appartement F2,35000,5,Reptile,Red-Eared Slider Turtle,2,2,Intermédiaire,1
+ADOPT_0263,06 - Béjaïa,Maison traditionnelle,15000,10,Dog,Dachshund,6,3,Débutant,1
+ADOPT_0264,15 - Tizi Ouzou,Maison traditionnelle,50000,7,Fish,Betta,1,0,Expert,1
+ADOPT_0265,25 - Constantine,Maison traditionnelle,25000,4,Cat,Domestic Shorthair,3,1,Expert,1
+ADOPT_0266,15 - Tizi Ouzou,Appartement F3,35000,9,Bird,African Grey Parrot,1,4,Intermédiaire,1
+ADOPT_0267,06 - Béjaïa,Villa avec jardin/cour,20000,12,Dog,Siberian Husky,3,4,Expert,0
+ADOPT_0268,47 - Ghardaïa,Appartement F4,50000,3,Cat,British Shorthair,1,0,Intermédiaire,1
+ADOPT_0269,06 - Béjaïa,Maison traditionnelle,8000,2,Small Mammal,Chinchilla,3,0,Intermédiaire,1
+ADOPT_0270,13 - Tlemcen,Villa avec jardin/cour,15000,8,Dog,Shih Tzu,1,3,Expert,1
+ADOPT_0271,15 - Tizi Ouzou,Appartement F3,35000,8,Reptile,Corn Snake,5,2,Débutant,0
+ADOPT_0272,06 - Béjaïa,Appartement F2,50000,12,Reptile,Ball Python,6,0,Expert,1
+ADOPT_0273,19 - Sétif,Villa avec jardin/cour,50000,4,Bird,Lovebird,3,1,Débutant,1
+ADOPT_0274,16 - Alger,Appartement F2,50000,5,Reptile,Bearded Dragon,2,3,Débutant,1
+ADOPT_0275,16 - Alger,Appartement F2,20000,5,Cat,Persian,6,4,Débutant,1
+ADOPT_0276,16 - Alger,Appartement F3,25000,4,Bird,Macaw,5,1,Intermédiaire,1
+ADOPT_0277,19 - Sétif,Appartement F4,25000,5,Dog,Siberian Husky,3,4,Débutant,1
+ADOPT_0278,15 - Tizi Ouzou,Appartement F3,20000,11,Reptile,Corn Snake,6,2,Débutant,1
+ADOPT_0279,13 - Tlemcen,Maison traditionnelle,20000,10,Reptile,Leopard Gecko,3,0,Expert,1
+ADOPT_0280,15 - Tizi Ouzou,Appartement F3,15000,9,Bird,Macaw,2,3,Débutant,1
+ADOPT_0281,13 - Tlemcen,Villa avec jardin/cour,8000,10,Small Mammal,Ferret,5,4,Débutant,1
+ADOPT_0282,06 - Béjaïa,Appartement F4,12000,7,Bird,Budgerigar (Budgie),1,2,Expert,1
+ADOPT_0283,47 - Ghardaïa,Appartement F2,15000,2,Reptile,Ball Python,1,3,Débutant,1
+ADOPT_0284,09 - Blida,Maison traditionnelle,12000,7,Fish,Angelfish,3,3,Débutant,0
+ADOPT_0285,09 - Blida,Appartement F2,35000,11,Dog,Shih Tzu,6,3,Débutant,0
+ADOPT_0286,15 - Tizi Ouzou,Maison traditionnelle,15000,12,Bird,Budgerigar (Budgie),3,2,Intermédiaire,1
+ADOPT_0287,06 - Béjaïa,Maison traditionnelle,20000,7,Small Mammal,Hamster,2,3,Intermédiaire,0
+ADOPT_0288,16 - Alger,Appartement F2,25000,6,Small Mammal,Gerbil,5,1,Expert,1
+ADOPT_0289,13 - Tlemcen,Appartement F4,12000,11,Rabbit,Flemish Giant,2,1,Intermédiaire,1
+ADOPT_0290,06 - Béjaïa,Appartement F4,50000,9,Rabbit,Mini Lop,2,3,Expert,1
+ADOPT_0291,06 - Béjaïa,Appartement F3,12000,4,Fish,Goldfish,5,4,Expert,0
+ADOPT_0292,16 - Alger,Appartement F2,50000,2,Cat,Persian,4,0,Débutant,1
+ADOPT_0293,15 - Tizi Ouzou,Appartement F2,35000,9,Fish,Betta,3,1,Débutant,0
+ADOPT_0294,15 - Tizi Ouzou,Villa avec jardin/cour,35000,10,Rabbit,Rex,4,3,Débutant,0
+ADOPT_0295,13 - Tlemcen,Appartement F4,25000,4,Cat,Persian,1,2,Débutant,0
+ADOPT_0296,19 - Sétif,Appartement F3,12000,6,Rabbit,Netherland Dwarf,4,4,Débutant,1
+ADOPT_0297,09 - Blida,Villa avec jardin/cour,25000,6,Small Mammal,Gerbil,6,1,Débutant,1
+ADOPT_0298,06 - Béjaïa,Appartement F2,20000,2,Reptile,Bearded Dragon,6,3,Débutant,1
+ADOPT_0299,19 - Sétif,Appartement F2,20000,11,Reptile,Ball Python,1,3,Expert,1
+ADOPT_0300,16 - Alger,Appartement F3,50000,3,Cat,Siamese,6,4,Intermédiaire,1
+ADOPT_0301,09 - Blida,Appartement F2,12000,11,Rabbit,Rex,2,2,Expert,0
+ADOPT_0302,47 - Ghardaïa,Appartement F2,15000,8,Fish,Tetra,6,1,Expert,1
+ADOPT_0303,19 - Sétif,Appartement F3,50000,2,Small Mammal,Gerbil,1,0,Intermédiaire,1
+ADOPT_0304,13 - Tlemcen,Appartement F4,25000,7,Dog,French Bulldog,1,4,Expert,1
+ADOPT_0305,13 - Tlemcen,Villa avec jardin/cour,12000,8,Small Mammal,Gerbil,2,2,Expert,1
+ADOPT_0306,23 - Annaba,Appartement F2,50000,5,Rabbit,Flemish Giant,6,4,Débutant,0
+ADOPT_0307,19 - Sétif,Appartement F3,20000,7,Cat,Abyssinian,1,1,Débutant,1
+ADOPT_0308,31 - Oran,Villa avec jardin/cour,15000,4,Cat,Abyssinian,4,2,Intermédiaire,0
+ADOPT_0309,19 - Sétif,Maison traditionnelle,20000,10,Rabbit,Rex,1,0,Expert,0
+ADOPT_0310,13 - Tlemcen,Villa avec jardin/cour,8000,8,Rabbit,Mini Lop,1,2,Expert,0
+ADOPT_0311,25 - Constantine,Maison traditionnelle,25000,4,Rabbit,Netherland Dwarf,3,1,Intermédiaire,1
+ADOPT_0312,13 - Tlemcen,Appartement F3,8000,6,Small Mammal,Gerbil,4,1,Débutant,1
+ADOPT_0313,09 - Blida,Appartement F3,35000,9,Small Mammal,Hamster,1,3,Débutant,1
+ADOPT_0314,19 - Sétif,Villa avec jardin/cour,15000,9,Small Mammal,Chinchilla,3,4,Intermédiaire,1
+ADOPT_0315,09 - Blida,Appartement F3,15000,9,Fish,Angelfish,3,2,Débutant,1
+ADOPT_0316,09 - Blida,Appartement F4,35000,7,Bird,Cockatiel,4,3,Intermédiaire,1
+ADOPT_0317,09 - Blida,Appartement F4,8000,11,Fish,Tetra,5,4,Débutant,0
+ADOPT_0318,09 - Blida,Appartement F2,35000,9,Reptile,Corn Snake,3,3,Expert,1
+ADOPT_0319,25 - Constantine,Villa avec jardin/cour,12000,8,Cat,British Shorthair,4,2,Débutant,1
+ADOPT_0320,13 - Tlemcen,Villa avec jardin/cour,25000,10,Bird,Lovebird,1,3,Intermédiaire,1
+ADOPT_0321,09 - Blida,Maison traditionnelle,35000,12,Reptile,Corn Snake,6,0,Intermédiaire,0
+ADOPT_0322,19 - Sétif,Appartement F2,25000,8,Dog,Siberian Husky,1,3,Débutant,0
+ADOPT_0323,47 - Ghardaïa,Appartement F3,25000,5,Cat,Abyssinian,4,4,Intermédiaire,1
+ADOPT_0324,16 - Alger,Maison traditionnelle,35000,9,Bird,Macaw,1,4,Intermédiaire,1
+ADOPT_0325,19 - Sétif,Appartement F2,50000,9,Bird,African Grey Parrot,2,1,Expert,1
+ADOPT_0326,06 - Béjaïa,Villa avec jardin/cour,8000,7,Bird,Cockatiel,1,3,Intermédiaire,0
+ADOPT_0327,25 - Constantine,Appartement F2,50000,5,Cat,Domestic Shorthair,5,2,Débutant,1
+ADOPT_0328,09 - Blida,Appartement F4,25000,8,Rabbit,Netherland Dwarf,6,3,Débutant,1
+ADOPT_0329,09 - Blida,Villa avec jardin/cour,8000,9,Dog,Dachshund,5,4,Intermédiaire,0
+ADOPT_0330,31 - Oran,Appartement F3,12000,11,Bird,African Grey Parrot,1,2,Expert,1
+ADOPT_0331,31 - Oran,Appartement F4,12000,6,Dog,Labrador Retriever,6,3,Intermédiaire,0
+ADOPT_0332,31 - Oran,Maison traditionnelle,20000,7,Rabbit,Mini Lop,3,4,Intermédiaire,1
+ADOPT_0333,25 - Constantine,Appartement F4,25000,7,Rabbit,Netherland Dwarf,1,4,Débutant,0
+ADOPT_0334,13 - Tlemcen,Appartement F3,15000,11,Small Mammal,Chinchilla,2,1,Expert,1
+ADOPT_0335,25 - Constantine,Appartement F3,20000,10,Bird,Macaw,2,4,Intermédiaire,1
+ADOPT_0336,19 - Sétif,Appartement F3,15000,2,Small Mammal,Ferret,4,3,Débutant,1
+ADOPT_0337,06 - Béjaïa,Maison traditionnelle,25000,8,Dog,Dachshund,6,3,Intermédiaire,1
+ADOPT_0338,09 - Blida,Appartement F2,25000,6,Bird,Budgerigar (Budgie),1,0,Intermédiaire,1
+ADOPT_0339,47 - Ghardaïa,Appartement F4,12000,9,Dog,Siberian Husky,5,3,Expert,0
+ADOPT_0340,19 - Sétif,Appartement F2,15000,10,Cat,Persian,1,4,Expert,1
+ADOPT_0341,09 - Blida,Appartement F3,20000,6,Bird,Lovebird,1,0,Intermédiaire,1
+ADOPT_0342,09 - Blida,Appartement F2,20000,5,Small Mammal,Hamster,6,0,Expert,1
+ADOPT_0343,25 - Constantine,Maison traditionnelle,35000,5,Reptile,Red-Eared Slider Turtle,2,3,Débutant,1
+ADOPT_0344,19 - Sétif,Maison traditionnelle,15000,6,Rabbit,Mini Lop,3,4,Expert,1
+ADOPT_0345,16 - Alger,Appartement F2,12000,6,Small Mammal,Guinea Pig,6,3,Débutant,0
+ADOPT_0346,13 - Tlemcen,Appartement F3,12000,9,Reptile,Ball Python,2,2,Expert,1
+ADOPT_0347,31 - Oran,Villa avec jardin/cour,20000,8,Reptile,Red-Eared Slider Turtle,5,3,Expert,0
+ADOPT_0348,31 - Oran,Villa avec jardin/cour,20000,9,Small Mammal,Hamster,6,2,Expert,1
+ADOPT_0349,13 - Tlemcen,Appartement F2,50000,5,Reptile,Red-Eared Slider Turtle,4,4,Intermédiaire,1
+ADOPT_0350,06 - Béjaïa,Appartement F4,25000,7,Small Mammal,Hamster,6,4,Débutant,0
+ADOPT_0351,25 - Constantine,Villa avec jardin/cour,8000,9,Cat,Domestic Shorthair,4,0,Débutant,0
+ADOPT_0352,23 - Annaba,Appartement F3,35000,3,Bird,Budgerigar (Budgie),6,2,Intermédiaire,1
+ADOPT_0353,23 - Annaba,Appartement F4,35000,5,Small Mammal,Chinchilla,4,1,Expert,0
+ADOPT_0354,47 - Ghardaïa,Appartement F2,12000,5,Cat,Domestic Shorthair,5,3,Expert,0
+ADOPT_0355,13 - Tlemcen,Appartement F2,35000,4,Bird,African Grey Parrot,4,2,Débutant,1
+ADOPT_0356,31 - Oran,Appartement F2,35000,7,Dog,Dachshund,3,0,Intermédiaire,0
+ADOPT_0357,47 - Ghardaïa,Appartement F3,35000,2,Dog,Dachshund,5,1,Expert,0
+ADOPT_0358,25 - Constantine,Appartement F4,35000,8,Dog,Dachshund,5,1,Expert,1
+ADOPT_0359,31 - Oran,Appartement F2,8000,11,Bird,Budgerigar (Budgie),6,1,Intermédiaire,0
+ADOPT_0360,31 - Oran,Appartement F4,50000,5,Small Mammal,Gerbil,5,1,Expert,1
+ADOPT_0361,23 - Annaba,Appartement F4,50000,5,Rabbit,Rex,5,0,Expert,1
+ADOPT_0362,09 - Blida,Villa avec jardin/cour,15000,9,Rabbit,Netherland Dwarf,4,0,Débutant,1
+ADOPT_0363,16 - Alger,Maison traditionnelle,8000,7,Dog,Dachshund,3,4,Débutant,0
+ADOPT_0364,06 - Béjaïa,Villa avec jardin/cour,15000,3,Bird,Lovebird,1,4,Expert,1
+ADOPT_0365,13 - Tlemcen,Appartement F4,12000,10,Cat,Domestic Shorthair,3,0,Expert,1
+ADOPT_0366,15 - Tizi Ouzou,Villa avec jardin/cour,20000,10,Reptile,Corn Snake,5,3,Débutant,0
+ADOPT_0367,25 - Constantine,Appartement F4,8000,10,Small Mammal,Chinchilla,3,4,Intermédiaire,1
+ADOPT_0368,09 - Blida,Appartement F4,35000,2,Rabbit,Holland Lop,2,3,Débutant,1
+ADOPT_0369,25 - Constantine,Villa avec jardin/cour,25000,3,Bird,African Grey Parrot,1,4,Expert,0
+ADOPT_0370,23 - Annaba,Appartement F3,20000,4,Dog,French Bulldog,3,2,Débutant,1
+ADOPT_0371,13 - Tlemcen,Appartement F2,50000,6,Reptile,Red-Eared Slider Turtle,5,0,Débutant,1
+ADOPT_0372,15 - Tizi Ouzou,Appartement F2,20000,7,Small Mammal,Guinea Pig,1,3,Intermédiaire,0
+ADOPT_0373,31 - Oran,Appartement F3,15000,11,Fish,Angelfish,6,1,Expert,1
+ADOPT_0374,16 - Alger,Maison traditionnelle,8000,5,Cat,Siamese,1,0,Intermédiaire,0
+ADOPT_0375,13 - Tlemcen,Appartement F3,12000,5,Small Mammal,Gerbil,3,0,Débutant,1
+ADOPT_0376,31 - Oran,Appartement F4,50000,10,Bird,Cockatiel,6,0,Débutant,1
+ADOPT_0377,31 - Oran,Maison traditionnelle,8000,9,Dog,Shih Tzu,3,3,Intermédiaire,0
+ADOPT_0378,23 - Annaba,Maison traditionnelle,20000,11,Small Mammal,Chinchilla,3,0,Expert,1
+ADOPT_0379,09 - Blida,Villa avec jardin/cour,15000,10,Rabbit,Netherland Dwarf,2,4,Débutant,1
+ADOPT_0380,16 - Alger,Appartement F2,12000,7,Cat,British Shorthair,1,4,Expert,1
+ADOPT_0381,13 - Tlemcen,Appartement F2,12000,9,Bird,Cockatiel,1,4,Débutant,1
+ADOPT_0382,15 - Tizi Ouzou,Appartement F2,8000,8,Reptile,Red-Eared Slider Turtle,6,1,Intermédiaire,0
+ADOPT_0383,25 - Constantine,Maison traditionnelle,8000,12,Bird,African Grey Parrot,4,4,Débutant,0
+ADOPT_0384,23 - Annaba,Appartement F2,20000,7,Rabbit,Rex,4,1,Expert,1
+ADOPT_0385,09 - Blida,Appartement F4,20000,4,Fish,Goldfish,5,2,Débutant,1
+ADOPT_0386,31 - Oran,Appartement F3,20000,10,Dog,French Bulldog,3,3,Débutant,1
+ADOPT_0387,23 - Annaba,Villa avec jardin/cour,15000,11,Bird,Cockatiel,1,0,Débutant,0
+ADOPT_0388,19 - Sétif,Appartement F3,8000,8,Fish,Goldfish,5,1,Débutant,0
+ADOPT_0389,13 - Tlemcen,Appartement F4,50000,9,Reptile,Red-Eared Slider Turtle,5,1,Expert,0
+ADOPT_0390,25 - Constantine,Appartement F2,20000,3,Rabbit,Netherland Dwarf,1,0,Débutant,1
+ADOPT_0391,19 - Sétif,Appartement F3,12000,12,Fish,Betta,6,3,Expert,0
+ADOPT_0392,31 - Oran,Maison traditionnelle,15000,5,Cat,Persian,6,0,Intermédiaire,0
+ADOPT_0393,06 - Béjaïa,Appartement F2,50000,2,Fish,Betta,2,2,Expert,0
+ADOPT_0394,13 - Tlemcen,Villa avec jardin/cour,8000,4,Bird,Macaw,3,3,Débutant,0
+ADOPT_0395,47 - Ghardaïa,Appartement F4,20000,11,Dog,Labrador Retriever,2,1,Expert,0
+ADOPT_0396,23 - Annaba,Villa avec jardin/cour,25000,8,Small Mammal,Gerbil,2,3,Intermédiaire,0
+ADOPT_0397,13 - Tlemcen,Appartement F3,35000,7,Dog,Siberian Husky,4,4,Expert,1
+ADOPT_0398,19 - Sétif,Appartement F4,25000,8,Fish,Tetra,3,4,Débutant,0
+ADOPT_0399,23 - Annaba,Maison traditionnelle,12000,2,Cat,Abyssinian,4,0,Expert,1
+ADOPT_0400,09 - Blida,Appartement F3,12000,6,Small Mammal,Guinea Pig,5,0,Expert,1
+ADOPT_0401,25 - Constantine,Maison traditionnelle,50000,4,Cat,Siamese,2,3,Expert,1
+ADOPT_0402,47 - Ghardaïa,Maison traditionnelle,8000,4,Small Mammal,Hamster,5,2,Débutant,1
+ADOPT_0403,31 - Oran,Maison traditionnelle,15000,2,Fish,Tetra,2,1,Expert,1
+ADOPT_0404,47 - Ghardaïa,Maison traditionnelle,20000,5,Dog,French Bulldog,2,0,Intermédiaire,1
+ADOPT_0405,25 - Constantine,Appartement F4,8000,11,Reptile,Ball Python,6,0,Débutant,0
+ADOPT_0406,19 - Sétif,Maison traditionnelle,50000,12,Fish,Guppy,4,2,Expert,1
+ADOPT_0407,13 - Tlemcen,Appartement F4,15000,12,Cat,Abyssinian,4,1,Expert,1
+ADOPT_0408,09 - Blida,Maison traditionnelle,35000,12,Small Mammal,Ferret,5,4,Débutant,1
+ADOPT_0409,47 - Ghardaïa,Appartement F4,12000,8,Bird,Cockatiel,5,1,Débutant,1
+ADOPT_0410,47 - Ghardaïa,Appartement F4,50000,3,Dog,Siberian Husky,4,4,Débutant,1
+ADOPT_0411,31 - Oran,Appartement F3,15000,12,Small Mammal,Chinchilla,6,2,Expert,1
+ADOPT_0412,31 - Oran,Appartement F2,15000,7,Small Mammal,Gerbil,3,1,Débutant,1
+ADOPT_0413,25 - Constantine,Appartement F2,20000,8,Reptile,Bearded Dragon,4,3,Intermédiaire,1
+ADOPT_0414,47 - Ghardaïa,Villa avec jardin/cour,8000,12,Small Mammal,Guinea Pig,6,3,Débutant,1
+ADOPT_0415,23 - Annaba,Appartement F2,50000,2,Dog,Dachshund,3,0,Intermédiaire,0
+ADOPT_0416,31 - Oran,Appartement F4,12000,10,Cat,Domestic Shorthair,1,3,Intermédiaire,1
+ADOPT_0417,25 - Constantine,Villa avec jardin/cour,35000,11,Rabbit,Rex,4,0,Débutant,1
+ADOPT_0418,15 - Tizi Ouzou,Appartement F4,12000,10,Cat,Domestic Shorthair,3,1,Expert,1
+ADOPT_0419,15 - Tizi Ouzou,Appartement F3,8000,9,Small Mammal,Hamster,2,0,Débutant,1
+ADOPT_0420,47 - Ghardaïa,Villa avec jardin/cour,8000,9,Small Mammal,Chinchilla,2,2,Débutant,1
+ADOPT_0421,06 - Béjaïa,Appartement F3,35000,3,Cat,Siamese,3,2,Intermédiaire,1
+ADOPT_0422,13 - Tlemcen,Appartement F4,8000,4,Bird,Macaw,3,4,Intermédiaire,0
+ADOPT_0423,23 - Annaba,Villa avec jardin/cour,8000,5,Small Mammal,Ferret,3,2,Expert,1
+ADOPT_0424,15 - Tizi Ouzou,Appartement F2,8000,8,Cat,Siamese,5,2,Débutant,0
+ADOPT_0425,15 - Tizi Ouzou,Villa avec jardin/cour,50000,12,Rabbit,Holland Lop,4,4,Expert,1
+ADOPT_0426,16 - Alger,Appartement F4,8000,10,Dog,Dachshund,5,3,Expert,0
+ADOPT_0427,06 - Béjaïa,Maison traditionnelle,12000,4,Fish,Angelfish,2,0,Débutant,1
+ADOPT_0428,31 - Oran,Appartement F3,8000,12,Fish,Betta,4,3,Débutant,0
+ADOPT_0429,31 - Oran,Maison traditionnelle,15000,3,Fish,Betta,4,2,Expert,1
+ADOPT_0430,16 - Alger,Appartement F4,50000,11,Bird,Lovebird,5,2,Expert,1
+ADOPT_0431,47 - Ghardaïa,Appartement F2,20000,11,Fish,Tetra,1,1,Débutant,0
+ADOPT_0432,13 - Tlemcen,Appartement F4,50000,6,Rabbit,Holland Lop,4,4,Expert,1
+ADOPT_0433,13 - Tlemcen,Maison traditionnelle,20000,4,Bird,Lovebird,5,0,Expert,1
+ADOPT_0434,16 - Alger,Appartement F2,20000,9,Reptile,Leopard Gecko,3,2,Intermédiaire,1
+ADOPT_0435,31 - Oran,Appartement F4,15000,5,Cat,Abyssinian,2,2,Intermédiaire,1
+ADOPT_0436,31 - Oran,Appartement F4,15000,5,Reptile,Leopard Gecko,4,3,Débutant,1
+ADOPT_0437,19 - Sétif,Villa avec jardin/cour,50000,2,Fish,Tetra,5,4,Débutant,0
+ADOPT_0438,15 - Tizi Ouzou,Maison traditionnelle,20000,11,Cat,Abyssinian,1,1,Débutant,1
+ADOPT_0439,06 - Béjaïa,Appartement F2,12000,2,Dog,Shih Tzu,3,0,Expert,0
+ADOPT_0440,31 - Oran,Appartement F4,50000,12,Dog,Labrador Retriever,1,3,Débutant,1
+ADOPT_0441,06 - Béjaïa,Maison traditionnelle,20000,11,Small Mammal,Gerbil,5,1,Intermédiaire,1
+ADOPT_0442,13 - Tlemcen,Appartement F4,35000,2,Small Mammal,Ferret,2,0,Expert,1
+ADOPT_0443,23 - Annaba,Appartement F3,35000,12,Fish,Betta,4,1,Expert,1
+ADOPT_0444,16 - Alger,Villa avec jardin/cour,12000,5,Cat,Domestic Shorthair,3,1,Expert,1
+ADOPT_0445,19 - Sétif,Appartement F4,20000,9,Fish,Goldfish,3,3,Débutant,0
+ADOPT_0446,31 - Oran,Maison traditionnelle,50000,2,Bird,Cockatiel,5,4,Expert,1
+ADOPT_0447,47 - Ghardaïa,Maison traditionnelle,35000,6,Fish,Goldfish,3,4,Expert,0
+ADOPT_0448,23 - Annaba,Appartement F2,15000,6,Cat,British Shorthair,6,2,Expert,1
+ADOPT_0449,16 - Alger,Appartement F3,12000,11,Reptile,Red-Eared Slider Turtle,4,4,Expert,1
+ADOPT_0450,23 - Annaba,Appartement F2,35000,6,Small Mammal,Ferret,4,3,Intermédiaire,0
+ADOPT_0451,19 - Sétif,Maison traditionnelle,35000,5,Bird,African Grey Parrot,6,4,Expert,1
+ADOPT_0452,15 - Tizi Ouzou,Appartement F4,25000,4,Reptile,Leopard Gecko,3,2,Débutant,1
+ADOPT_0453,25 - Constantine,Appartement F4,35000,12,Bird,Budgerigar (Budgie),3,4,Expert,1
+ADOPT_0454,19 - Sétif,Appartement F4,12000,7,Cat,Siamese,3,2,Expert,1
+ADOPT_0455,47 - Ghardaïa,Appartement F2,20000,11,Small Mammal,Gerbil,5,0,Débutant,1
+ADOPT_0456,15 - Tizi Ouzou,Maison traditionnelle,8000,6,Bird,Budgerigar (Budgie),4,3,Débutant,0
+ADOPT_0457,47 - Ghardaïa,Appartement F3,12000,9,Fish,Betta,2,2,Intermédiaire,1
+ADOPT_0458,25 - Constantine,Appartement F2,20000,7,Fish,Betta,6,2,Débutant,1
+ADOPT_0459,25 - Constantine,Appartement F4,12000,9,Cat,British Shorthair,1,1,Débutant,1
+ADOPT_0460,13 - Tlemcen,Villa avec jardin/cour,20000,2,Rabbit,Flemish Giant,1,3,Expert,1
+ADOPT_0461,09 - Blida,Appartement F2,15000,2,Dog,Labrador Retriever,6,4,Débutant,0
+ADOPT_0462,31 - Oran,Appartement F3,35000,8,Reptile,Ball Python,5,2,Expert,1
+ADOPT_0463,23 - Annaba,Appartement F2,50000,9,Small Mammal,Ferret,6,0,Expert,1
+ADOPT_0464,06 - Béjaïa,Appartement F4,20000,7,Rabbit,Rex,2,1,Débutant,1
+ADOPT_0465,25 - Constantine,Appartement F2,12000,5,Fish,Tetra,6,1,Débutant,1
+ADOPT_0466,16 - Alger,Appartement F3,8000,8,Rabbit,Rex,6,2,Intermédiaire,0
+ADOPT_0467,16 - Alger,Maison traditionnelle,8000,12,Fish,Angelfish,1,4,Expert,0
+ADOPT_0468,13 - Tlemcen,Appartement F2,35000,3,Fish,Guppy,5,0,Intermédiaire,1
+ADOPT_0469,31 - Oran,Appartement F3,35000,12,Bird,Budgerigar (Budgie),5,0,Intermédiaire,1
+ADOPT_0470,47 - Ghardaïa,Appartement F3,20000,3,Rabbit,Rex,3,0,Débutant,1
+ADOPT_0471,09 - Blida,Villa avec jardin/cour,12000,6,Fish,Guppy,5,4,Débutant,0
+ADOPT_0472,09 - Blida,Appartement F4,12000,9,Small Mammal,Gerbil,3,0,Débutant,1
+ADOPT_0473,06 - Béjaïa,Appartement F2,8000,4,Cat,Domestic Shorthair,1,4,Expert,0
+ADOPT_0474,23 - Annaba,Appartement F4,35000,6,Cat,Domestic Shorthair,4,1,Débutant,1
+ADOPT_0475,19 - Sétif,Appartement F2,50000,8,Cat,Siamese,6,2,Débutant,1
+ADOPT_0476,25 - Constantine,Appartement F2,50000,7,Cat,Domestic Shorthair,3,1,Intermédiaire,1
+ADOPT_0477,13 - Tlemcen,Appartement F2,15000,8,Rabbit,Mini Lop,4,2,Intermédiaire,1
+ADOPT_0478,25 - Constantine,Villa avec jardin/cour,50000,3,Fish,Tetra,2,3,Expert,0
+ADOPT_0479,47 - Ghardaïa,Appartement F3,8000,9,Reptile,Bearded Dragon,5,3,Expert,0
+ADOPT_0480,25 - Constantine,Maison traditionnelle,20000,9,Bird,Budgerigar (Budgie),4,2,Débutant,1
+ADOPT_0481,19 - Sétif,Appartement F2,8000,2,Bird,Macaw,6,2,Expert,0
+ADOPT_0482,47 - Ghardaïa,Maison traditionnelle,12000,3,Rabbit,Rex,4,2,Expert,1
+ADOPT_0483,15 - Tizi Ouzou,Villa avec jardin/cour,15000,11,Reptile,Ball Python,1,3,Débutant,0
+ADOPT_0484,25 - Constantine,Maison traditionnelle,50000,3,Reptile,Ball Python,4,3,Intermédiaire,1
+ADOPT_0485,09 - Blida,Appartement F4,8000,10,Dog,Labrador Retriever,6,4,Intermédiaire,0
+ADOPT_0486,06 - Béjaïa,Appartement F2,20000,3,Bird,Budgerigar (Budgie),4,3,Intermédiaire,1
+ADOPT_0487,13 - Tlemcen,Villa avec jardin/cour,35000,2,Small Mammal,Chinchilla,5,0,Expert,0
+ADOPT_0488,15 - Tizi Ouzou,Maison traditionnelle,25000,5,Cat,Domestic Shorthair,6,2,Expert,1
+ADOPT_0489,06 - Béjaïa,Appartement F4,50000,7,Bird,Cockatiel,5,0,Expert,1
+ADOPT_0490,09 - Blida,Appartement F4,35000,2,Rabbit,Flemish Giant,3,3,Intermédiaire,0
+ADOPT_0491,16 - Alger,Maison traditionnelle,25000,4,Fish,Goldfish,4,2,Débutant,1
+ADOPT_0492,09 - Blida,Appartement F2,15000,5,Fish,Tetra,1,4,Intermédiaire,0
+ADOPT_0493,13 - Tlemcen,Appartement F3,35000,2,Dog,Dachshund,6,2,Expert,0
+ADOPT_0494,25 - Constantine,Villa avec jardin/cour,20000,9,Rabbit,Holland Lop,1,4,Expert,1
+ADOPT_0495,15 - Tizi Ouzou,Maison traditionnelle,20000,4,Reptile,Bearded Dragon,6,4,Expert,1
+ADOPT_0496,47 - Ghardaïa,Appartement F2,20000,7,Dog,Shih Tzu,5,4,Intermédiaire,0
+ADOPT_0497,23 - Annaba,Appartement F3,15000,9,Bird,Lovebird,2,3,Débutant,1
+ADOPT_0498,15 - Tizi Ouzou,Maison traditionnelle,15000,12,Bird,Lovebird,2,4,Débutant,1
+ADOPT_0499,25 - Constantine,Appartement F4,35000,12,Dog,Siberian Husky,2,2,Expert,1
+ADOPT_0500,47 - Ghardaïa,Appartement F2,50000,11,Rabbit,Mini Lop,6,2,Expert,1
+ADOPT_0501,15 - Tizi Ouzou,Appartement F4,50000,3,Bird,Lovebird,1,3,Intermédiaire,1
+ADOPT_0502,25 - Constantine,Appartement F2,12000,6,Dog,French Bulldog,6,2,Intermédiaire,0
+ADOPT_0503,16 - Alger,Appartement F4,12000,7,Dog,French Bulldog,4,4,Débutant,0
+ADOPT_0504,15 - Tizi Ouzou,Appartement F3,35000,6,Rabbit,Rex,6,4,Expert,1
+ADOPT_0505,16 - Alger,Villa avec jardin/cour,20000,2,Cat,British Shorthair,6,2,Intermédiaire,1
+ADOPT_0506,19 - Sétif,Villa avec jardin/cour,50000,11,Dog,Siberian Husky,5,1,Expert,1
+ADOPT_0507,31 - Oran,Appartement F3,15000,4,Rabbit,Netherland Dwarf,2,3,Expert,1
+ADOPT_0508,23 - Annaba,Villa avec jardin/cour,8000,10,Rabbit,Holland Lop,3,3,Débutant,0
+ADOPT_0509,06 - Béjaïa,Appartement F4,8000,4,Dog,Siberian Husky,1,2,Débutant,0
+ADOPT_0510,23 - Annaba,Appartement F2,50000,9,Small Mammal,Guinea Pig,5,4,Expert,0
+ADOPT_0511,15 - Tizi Ouzou,Appartement F4,25000,3,Small Mammal,Chinchilla,5,1,Débutant,1
+ADOPT_0512,09 - Blida,Maison traditionnelle,20000,12,Bird,Lovebird,3,0,Intermédiaire,1
+ADOPT_0513,15 - Tizi Ouzou,Appartement F3,50000,12,Small Mammal,Hamster,1,4,Débutant,1
+ADOPT_0514,09 - Blida,Villa avec jardin/cour,12000,2,Reptile,Red-Eared Slider Turtle,6,4,Intermédiaire,1
+ADOPT_0515,16 - Alger,Villa avec jardin/cour,15000,10,Bird,African Grey Parrot,3,4,Expert,1
+ADOPT_0516,09 - Blida,Villa avec jardin/cour,20000,7,Fish,Angelfish,5,0,Débutant,1
+ADOPT_0517,09 - Blida,Maison traditionnelle,25000,12,Cat,Siamese,6,0,Débutant,1
+ADOPT_0518,13 - Tlemcen,Appartement F2,12000,12,Fish,Tetra,1,4,Expert,0
+ADOPT_0519,31 - Oran,Appartement F2,20000,2,Reptile,Ball Python,2,2,Intermédiaire,0
+ADOPT_0520,13 - Tlemcen,Maison traditionnelle,50000,8,Rabbit,Holland Lop,4,1,Expert,1
+ADOPT_0521,31 - Oran,Appartement F4,8000,10,Bird,Macaw,1,3,Expert,0
+ADOPT_0522,31 - Oran,Appartement F2,50000,7,Reptile,Corn Snake,5,4,Débutant,0
+ADOPT_0523,06 - Béjaïa,Maison traditionnelle,8000,8,Small Mammal,Hamster,4,2,Expert,1
+ADOPT_0524,13 - Tlemcen,Appartement F3,25000,10,Cat,British Shorthair,3,1,Expert,0
+ADOPT_0525,15 - Tizi Ouzou,Appartement F4,8000,4,Dog,Labrador Retriever,1,4,Débutant,0
+ADOPT_0526,31 - Oran,Maison traditionnelle,20000,6,Cat,Persian,2,4,Expert,1
+ADOPT_0527,25 - Constantine,Appartement F3,20000,5,Reptile,Red-Eared Slider Turtle,5,4,Intermédiaire,0
+ADOPT_0528,15 - Tizi Ouzou,Appartement F3,35000,9,Dog,French Bulldog,6,4,Expert,1
+ADOPT_0529,47 - Ghardaïa,Appartement F2,15000,9,Cat,Abyssinian,3,0,Intermédiaire,1
+ADOPT_0530,31 - Oran,Appartement F2,15000,5,Dog,Shih Tzu,3,4,Intermédiaire,0
+ADOPT_0531,25 - Constantine,Maison traditionnelle,35000,11,Bird,Cockatiel,5,2,Intermédiaire,1
+ADOPT_0532,09 - Blida,Villa avec jardin/cour,12000,12,Fish,Goldfish,4,0,Intermédiaire,1
+ADOPT_0533,06 - Béjaïa,Appartement F3,35000,9,Fish,Goldfish,3,2,Intermédiaire,1
+ADOPT_0534,23 - Annaba,Appartement F2,12000,4,Bird,Lovebird,5,4,Débutant,0
+ADOPT_0535,16 - Alger,Appartement F2,8000,11,Small Mammal,Chinchilla,5,4,Intermédiaire,0
+ADOPT_0536,23 - Annaba,Appartement F3,8000,10,Fish,Angelfish,5,4,Intermédiaire,0
+ADOPT_0537,47 - Ghardaïa,Appartement F4,20000,6,Reptile,Ball Python,2,1,Intermédiaire,1
+ADOPT_0538,09 - Blida,Appartement F2,20000,11,Rabbit,Rex,6,2,Débutant,1
+ADOPT_0539,47 - Ghardaïa,Appartement F3,20000,12,Fish,Angelfish,2,1,Expert,1
+ADOPT_0540,06 - Béjaïa,Appartement F4,8000,5,Reptile,Leopard Gecko,1,1,Intermédiaire,0
+ADOPT_0541,19 - Sétif,Appartement F2,35000,8,Small Mammal,Ferret,4,1,Intermédiaire,1
+ADOPT_0542,23 - Annaba,Appartement F4,8000,6,Cat,Domestic Shorthair,5,4,Expert,0
+ADOPT_0543,31 - Oran,Villa avec jardin/cour,35000,10,Rabbit,Netherland Dwarf,3,3,Intermédiaire,1
+ADOPT_0544,06 - Béjaïa,Villa avec jardin/cour,15000,11,Dog,Siberian Husky,1,2,Expert,1
+ADOPT_0545,15 - Tizi Ouzou,Appartement F3,12000,12,Dog,Dachshund,3,0,Débutant,0
+ADOPT_0546,31 - Oran,Appartement F3,15000,12,Dog,Shih Tzu,2,4,Intermédiaire,1
+ADOPT_0547,06 - Béjaïa,Appartement F2,20000,5,Fish,Goldfish,5,3,Débutant,0
+ADOPT_0548,47 - Ghardaïa,Appartement F2,12000,4,Reptile,Leopard Gecko,2,0,Expert,0
+ADOPT_0549,25 - Constantine,Maison traditionnelle,12000,10,Rabbit,Holland Lop,4,0,Expert,1
+ADOPT_0550,06 - Béjaïa,Appartement F4,8000,11,Rabbit,Holland Lop,4,1,Intermédiaire,0
+ADOPT_0551,25 - Constantine,Villa avec jardin/cour,25000,11,Dog,Shih Tzu,6,1,Expert,1
+ADOPT_0552,09 - Blida,Appartement F4,20000,8,Small Mammal,Ferret,4,4,Débutant,1
+ADOPT_0553,25 - Constantine,Appartement F3,25000,11,Cat,Domestic Shorthair,1,4,Débutant,1
+ADOPT_0554,15 - Tizi Ouzou,Maison traditionnelle,8000,3,Bird,Lovebird,1,4,Intermédiaire,0
+ADOPT_0555,13 - Tlemcen,Maison traditionnelle,25000,10,Reptile,Ball Python,4,0,Intermédiaire,1
+ADOPT_0556,06 - Béjaïa,Maison traditionnelle,20000,8,Fish,Guppy,3,1,Expert,1
+ADOPT_0557,09 - Blida,Appartement F2,20000,3,Fish,Angelfish,3,1,Expert,1
+ADOPT_0558,16 - Alger,Appartement F4,12000,11,Rabbit,Flemish Giant,5,0,Débutant,1
+ADOPT_0559,19 - Sétif,Villa avec jardin/cour,35000,8,Rabbit,Holland Lop,3,1,Débutant,1
+ADOPT_0560,13 - Tlemcen,Maison traditionnelle,15000,11,Dog,Dachshund,3,2,Expert,1
+ADOPT_0561,06 - Béjaïa,Appartement F3,20000,4,Small Mammal,Gerbil,3,4,Expert,1
+ADOPT_0562,13 - Tlemcen,Appartement F4,15000,4,Rabbit,Flemish Giant,6,4,Débutant,1
+ADOPT_0563,15 - Tizi Ouzou,Villa avec jardin/cour,50000,8,Reptile,Ball Python,3,1,Expert,0
+ADOPT_0564,25 - Constantine,Appartement F3,20000,9,Rabbit,Holland Lop,5,0,Intermédiaire,1
+ADOPT_0565,16 - Alger,Appartement F4,12000,8,Cat,Domestic Shorthair,4,2,Expert,0
+ADOPT_0566,25 - Constantine,Appartement F4,35000,12,Reptile,Corn Snake,4,4,Intermédiaire,0
+ADOPT_0567,47 - Ghardaïa,Maison traditionnelle,15000,10,Cat,Siamese,5,1,Expert,0
+ADOPT_0568,16 - Alger,Appartement F3,35000,4,Dog,Siberian Husky,1,0,Intermédiaire,1
+ADOPT_0569,13 - Tlemcen,Appartement F4,35000,11,Fish,Tetra,2,3,Expert,0
+ADOPT_0570,15 - Tizi Ouzou,Appartement F2,25000,11,Cat,Domestic Shorthair,3,2,Intermédiaire,1
+ADOPT_0571,13 - Tlemcen,Appartement F3,25000,11,Fish,Goldfish,1,1,Intermédiaire,1
+ADOPT_0572,31 - Oran,Maison traditionnelle,8000,10,Dog,Dachshund,3,4,Intermédiaire,0
+ADOPT_0573,06 - Béjaïa,Appartement F4,25000,8,Cat,Persian,5,4,Intermédiaire,1
+ADOPT_0574,06 - Béjaïa,Appartement F4,50000,11,Fish,Betta,1,3,Intermédiaire,0
+ADOPT_0575,09 - Blida,Appartement F2,20000,7,Cat,Abyssinian,4,1,Intermédiaire,1
+ADOPT_0576,31 - Oran,Appartement F2,35000,8,Rabbit,Rex,6,2,Expert,1
+ADOPT_0577,19 - Sétif,Appartement F2,25000,5,Fish,Goldfish,5,1,Intermédiaire,1
+ADOPT_0578,09 - Blida,Villa avec jardin/cour,35000,6,Dog,Shih Tzu,2,1,Débutant,1
+ADOPT_0579,31 - Oran,Maison traditionnelle,15000,3,Dog,Shih Tzu,6,1,Expert,1
+ADOPT_0580,06 - Béjaïa,Appartement F2,50000,7,Bird,Lovebird,5,4,Intermédiaire,1
+ADOPT_0581,15 - Tizi Ouzou,Appartement F4,20000,6,Bird,Lovebird,4,1,Débutant,1
+ADOPT_0582,13 - Tlemcen,Appartement F3,8000,9,Fish,Angelfish,5,4,Débutant,0
+ADOPT_0583,31 - Oran,Villa avec jardin/cour,50000,10,Rabbit,Mini Lop,4,1,Intermédiaire,1
+ADOPT_0584,31 - Oran,Appartement F2,35000,7,Reptile,Bearded Dragon,3,1,Expert,1
+ADOPT_0585,06 - Béjaïa,Appartement F3,25000,11,Fish,Goldfish,3,2,Intermédiaire,1
+ADOPT_0586,19 - Sétif,Villa avec jardin/cour,12000,7,Dog,Dachshund,4,3,Intermédiaire,0
+ADOPT_0587,31 - Oran,Maison traditionnelle,12000,6,Bird,Budgerigar (Budgie),2,4,Expert,1
+ADOPT_0588,16 - Alger,Appartement F3,12000,4,Bird,Macaw,4,1,Intermédiaire,1
+ADOPT_0589,23 - Annaba,Maison traditionnelle,35000,6,Dog,Siberian Husky,5,2,Expert,1
+ADOPT_0590,23 - Annaba,Appartement F2,35000,9,Cat,British Shorthair,6,1,Débutant,0
+ADOPT_0591,23 - Annaba,Appartement F4,15000,7,Bird,Cockatiel,1,2,Intermédiaire,1
+ADOPT_0592,15 - Tizi Ouzou,Maison traditionnelle,12000,4,Cat,Abyssinian,3,4,Intermédiaire,1
+ADOPT_0593,13 - Tlemcen,Villa avec jardin/cour,50000,11,Small Mammal,Guinea Pig,3,3,Intermédiaire,1
+ADOPT_0594,47 - Ghardaïa,Appartement F3,35000,11,Reptile,Ball Python,4,2,Débutant,1
+ADOPT_0595,23 - Annaba,Appartement F4,12000,6,Cat,Siamese,5,2,Expert,1
+ADOPT_0596,15 - Tizi Ouzou,Villa avec jardin/cour,50000,9,Bird,Cockatiel,4,2,Débutant,1
+ADOPT_0597,31 - Oran,Appartement F3,35000,5,Dog,French Bulldog,2,1,Intermédiaire,1
+ADOPT_0598,13 - Tlemcen,Appartement F2,20000,10,Cat,Domestic Shorthair,1,4,Débutant,0
+ADOPT_0599,09 - Blida,Appartement F3,8000,6,Small Mammal,Guinea Pig,4,3,Expert,1
+ADOPT_0600,19 - Sétif,Maison traditionnelle,50000,7,Dog,Shih Tzu,4,1,Intermédiaire,0
+ADOPT_0601,25 - Constantine,Appartement F4,25000,10,Fish,Angelfish,2,3,Expert,0
+ADOPT_0602,15 - Tizi Ouzou,Maison traditionnelle,20000,6,Rabbit,Flemish Giant,3,4,Intermédiaire,1
+ADOPT_0603,23 - Annaba,Appartement F2,20000,4,Rabbit,Netherland Dwarf,3,2,Débutant,1
+ADOPT_0604,16 - Alger,Appartement F3,15000,9,Cat,Persian,4,2,Intermédiaire,1
+ADOPT_0605,15 - Tizi Ouzou,Appartement F4,25000,7,Cat,British Shorthair,2,1,Intermédiaire,1
+ADOPT_0606,13 - Tlemcen,Villa avec jardin/cour,12000,8,Rabbit,Flemish Giant,2,1,Intermédiaire,1
+ADOPT_0607,23 - Annaba,Appartement F3,25000,6,Cat,British Shorthair,6,4,Expert,1
+ADOPT_0608,23 - Annaba,Villa avec jardin/cour,12000,3,Rabbit,Mini Lop,6,0,Intermédiaire,1
+ADOPT_0609,19 - Sétif,Appartement F4,35000,2,Rabbit,Flemish Giant,2,4,Débutant,1
+ADOPT_0610,23 - Annaba,Appartement F3,8000,4,Rabbit,Holland Lop,6,2,Intermédiaire,0
+ADOPT_0611,16 - Alger,Appartement F3,8000,9,Reptile,Bearded Dragon,2,1,Intermédiaire,0
+ADOPT_0612,16 - Alger,Villa avec jardin/cour,15000,7,Bird,Cockatiel,1,3,Débutant,1
+ADOPT_0613,06 - Béjaïa,Villa avec jardin/cour,8000,4,Cat,Abyssinian,2,4,Intermédiaire,0
+ADOPT_0614,13 - Tlemcen,Appartement F2,8000,9,Fish,Tetra,2,1,Expert,0
+ADOPT_0615,09 - Blida,Villa avec jardin/cour,35000,9,Cat,Siamese,4,0,Expert,1
+ADOPT_0616,15 - Tizi Ouzou,Appartement F3,35000,10,Small Mammal,Hamster,1,0,Intermédiaire,1
+ADOPT_0617,09 - Blida,Appartement F3,15000,3,Bird,Cockatiel,2,0,Expert,1
+ADOPT_0618,13 - Tlemcen,Appartement F2,12000,5,Bird,Cockatiel,1,2,Débutant,1
+ADOPT_0619,09 - Blida,Maison traditionnelle,12000,4,Rabbit,Flemish Giant,4,2,Débutant,1
+ADOPT_0620,25 - Constantine,Appartement F4,50000,10,Reptile,Corn Snake,1,0,Débutant,0
+ADOPT_0621,06 - Béjaïa,Appartement F4,25000,5,Bird,Budgerigar (Budgie),1,2,Expert,1
+ADOPT_0622,06 - Béjaïa,Appartement F3,15000,10,Bird,Cockatiel,3,0,Expert,1
+ADOPT_0623,19 - Sétif,Appartement F3,25000,9,Reptile,Leopard Gecko,3,1,Expert,1
+ADOPT_0624,25 - Constantine,Appartement F3,8000,9,Fish,Angelfish,3,4,Intermédiaire,0
+ADOPT_0625,13 - Tlemcen,Villa avec jardin/cour,8000,4,Rabbit,Mini Lop,1,4,Expert,0
+ADOPT_0626,15 - Tizi Ouzou,Maison traditionnelle,12000,8,Fish,Goldfish,2,2,Expert,1
+ADOPT_0627,13 - Tlemcen,Maison traditionnelle,12000,12,Reptile,Leopard Gecko,3,4,Débutant,1
+ADOPT_0628,25 - Constantine,Appartement F2,8000,2,Cat,Persian,2,1,Débutant,0
+ADOPT_0629,13 - Tlemcen,Appartement F2,8000,12,Bird,Budgerigar (Budgie),4,4,Expert,0
+ADOPT_0630,09 - Blida,Appartement F4,8000,11,Rabbit,Rex,6,2,Débutant,0
+ADOPT_0631,16 - Alger,Villa avec jardin/cour,50000,7,Cat,Siamese,5,0,Expert,1
+ADOPT_0632,16 - Alger,Appartement F2,50000,3,Bird,Cockatiel,3,4,Débutant,1
+ADOPT_0633,15 - Tizi Ouzou,Appartement F2,8000,8,Dog,Siberian Husky,2,1,Débutant,0
+ADOPT_0634,15 - Tizi Ouzou,Maison traditionnelle,35000,8,Rabbit,Netherland Dwarf,6,1,Débutant,1
+ADOPT_0635,13 - Tlemcen,Appartement F4,35000,3,Fish,Angelfish,2,3,Débutant,0
+ADOPT_0636,47 - Ghardaïa,Maison traditionnelle,15000,9,Rabbit,Flemish Giant,3,1,Intermédiaire,1
+ADOPT_0637,19 - Sétif,Appartement F4,20000,11,Rabbit,Mini Lop,2,3,Expert,1
+ADOPT_0638,23 - Annaba,Villa avec jardin/cour,50000,7,Rabbit,Netherland Dwarf,4,4,Intermédiaire,1
+ADOPT_0639,25 - Constantine,Appartement F2,15000,6,Bird,African Grey Parrot,1,4,Intermédiaire,0
+ADOPT_0640,15 - Tizi Ouzou,Appartement F4,8000,10,Dog,Shih Tzu,5,2,Expert,0
+ADOPT_0641,19 - Sétif,Appartement F2,8000,4,Rabbit,Netherland Dwarf,2,3,Intermédiaire,0
+ADOPT_0642,31 - Oran,Appartement F3,12000,11,Small Mammal,Guinea Pig,4,2,Expert,1
+ADOPT_0643,47 - Ghardaïa,Appartement F4,50000,3,Dog,French Bulldog,5,3,Expert,1
+ADOPT_0644,19 - Sétif,Maison traditionnelle,20000,7,Small Mammal,Chinchilla,4,0,Intermédiaire,1
+ADOPT_0645,16 - Alger,Appartement F3,35000,12,Fish,Guppy,6,4,Intermédiaire,0
+ADOPT_0646,15 - Tizi Ouzou,Maison traditionnelle,8000,11,Cat,Abyssinian,2,2,Intermédiaire,0
+ADOPT_0647,06 - Béjaïa,Appartement F3,8000,11,Rabbit,Netherland Dwarf,5,3,Expert,0
+ADOPT_0648,19 - Sétif,Villa avec jardin/cour,15000,3,Cat,Siamese,4,3,Expert,0
+ADOPT_0649,15 - Tizi Ouzou,Maison traditionnelle,20000,8,Reptile,Bearded Dragon,6,2,Débutant,0
+ADOPT_0650,47 - Ghardaïa,Villa avec jardin/cour,25000,5,Fish,Betta,5,1,Expert,1
+ADOPT_0651,13 - Tlemcen,Appartement F3,12000,7,Reptile,Corn Snake,6,0,Expert,1
+ADOPT_0652,19 - Sétif,Villa avec jardin/cour,20000,7,Cat,Domestic Shorthair,5,2,Expert,1
+ADOPT_0653,06 - Béjaïa,Appartement F3,15000,11,Cat,Abyssinian,2,4,Intermédiaire,1
+ADOPT_0654,31 - Oran,Appartement F3,35000,3,Cat,Siamese,6,2,Débutant,1
+ADOPT_0655,31 - Oran,Appartement F3,50000,6,Dog,Siberian Husky,4,2,Intermédiaire,0
+ADOPT_0656,15 - Tizi Ouzou,Appartement F3,35000,10,Cat,Abyssinian,3,4,Expert,1
+ADOPT_0657,15 - Tizi Ouzou,Appartement F3,35000,2,Bird,Lovebird,3,0,Débutant,1
+ADOPT_0658,06 - Béjaïa,Appartement F3,50000,12,Cat,Abyssinian,1,4,Débutant,1
+ADOPT_0659,13 - Tlemcen,Appartement F4,50000,5,Bird,Cockatiel,4,0,Expert,0
+ADOPT_0660,25 - Constantine,Appartement F4,20000,5,Reptile,Bearded Dragon,5,4,Intermédiaire,1
+ADOPT_0661,23 - Annaba,Appartement F2,12000,7,Rabbit,Holland Lop,4,4,Intermédiaire,0
+ADOPT_0662,23 - Annaba,Appartement F2,15000,5,Reptile,Ball Python,5,2,Intermédiaire,1
+ADOPT_0663,23 - Annaba,Appartement F4,20000,5,Fish,Guppy,2,0,Intermédiaire,1
+ADOPT_0664,47 - Ghardaïa,Appartement F2,35000,12,Bird,Budgerigar (Budgie),6,3,Débutant,1
+ADOPT_0665,47 - Ghardaïa,Maison traditionnelle,12000,7,Bird,Budgerigar (Budgie),4,3,Expert,1
+ADOPT_0666,09 - Blida,Appartement F3,25000,4,Dog,Shih Tzu,3,4,Expert,1
+ADOPT_0667,47 - Ghardaïa,Appartement F3,20000,4,Reptile,Corn Snake,3,1,Débutant,1
+ADOPT_0668,25 - Constantine,Appartement F2,12000,2,Rabbit,Rex,3,2,Intermédiaire,1
+ADOPT_0669,09 - Blida,Villa avec jardin/cour,35000,3,Bird,Cockatiel,2,2,Débutant,1
+ADOPT_0670,09 - Blida,Maison traditionnelle,15000,11,Cat,Persian,2,4,Débutant,1
+ADOPT_0671,25 - Constantine,Appartement F4,8000,10,Reptile,Bearded Dragon,5,3,Intermédiaire,0
+ADOPT_0672,25 - Constantine,Appartement F3,50000,4,Reptile,Red-Eared Slider Turtle,2,3,Débutant,1
+ADOPT_0673,09 - Blida,Appartement F2,15000,5,Cat,British Shorthair,1,3,Débutant,1
+ADOPT_0674,09 - Blida,Villa avec jardin/cour,35000,8,Bird,Lovebird,4,2,Débutant,1
+ADOPT_0675,47 - Ghardaïa,Appartement F4,20000,11,Rabbit,Flemish Giant,5,4,Expert,1
+ADOPT_0676,06 - Béjaïa,Maison traditionnelle,8000,2,Reptile,Bearded Dragon,2,3,Expert,0
+ADOPT_0677,15 - Tizi Ouzou,Appartement F2,25000,12,Rabbit,Flemish Giant,1,3,Débutant,0
+ADOPT_0678,13 - Tlemcen,Villa avec jardin/cour,15000,6,Small Mammal,Gerbil,5,2,Débutant,1
+ADOPT_0679,15 - Tizi Ouzou,Appartement F3,20000,3,Reptile,Corn Snake,2,3,Expert,0
+ADOPT_0680,16 - Alger,Appartement F3,20000,4,Reptile,Corn Snake,4,3,Expert,1
+ADOPT_0681,19 - Sétif,Villa avec jardin/cour,8000,12,Reptile,Ball Python,6,2,Débutant,0
+ADOPT_0682,19 - Sétif,Appartement F2,8000,3,Reptile,Bearded Dragon,5,3,Expert,0
+ADOPT_0683,16 - Alger,Maison traditionnelle,12000,4,Bird,Lovebird,3,3,Expert,1
+ADOPT_0684,16 - Alger,Appartement F3,50000,8,Fish,Betta,3,1,Intermédiaire,1
+ADOPT_0685,25 - Constantine,Appartement F4,35000,5,Reptile,Leopard Gecko,1,1,Expert,0
+ADOPT_0686,06 - Béjaïa,Appartement F2,20000,10,Fish,Goldfish,1,3,Expert,0
+ADOPT_0687,06 - Béjaïa,Appartement F3,25000,3,Bird,Budgerigar (Budgie),5,3,Expert,1
+ADOPT_0688,09 - Blida,Maison traditionnelle,15000,2,Cat,Siamese,2,4,Débutant,1
+ADOPT_0689,47 - Ghardaïa,Appartement F2,12000,6,Cat,Abyssinian,3,0,Débutant,1
+ADOPT_0690,47 - Ghardaïa,Villa avec jardin/cour,12000,12,Cat,Domestic Shorthair,6,1,Expert,1
+ADOPT_0691,19 - Sétif,Maison traditionnelle,12000,2,Rabbit,Rex,1,3,Intermédiaire,1
+ADOPT_0692,15 - Tizi Ouzou,Villa avec jardin/cour,50000,3,Small Mammal,Hamster,3,0,Intermédiaire,1
+ADOPT_0693,09 - Blida,Appartement F4,15000,5,Dog,French Bulldog,5,4,Débutant,1
+ADOPT_0694,47 - Ghardaïa,Maison traditionnelle,8000,6,Cat,Persian,4,3,Expert,0
+ADOPT_0695,47 - Ghardaïa,Appartement F4,25000,7,Fish,Goldfish,2,4,Expert,0
+ADOPT_0696,25 - Constantine,Maison traditionnelle,35000,11,Rabbit,Flemish Giant,2,3,Expert,1
+ADOPT_0697,31 - Oran,Appartement F2,8000,5,Small Mammal,Ferret,5,0,Intermédiaire,1
+ADOPT_0698,09 - Blida,Appartement F4,15000,2,Bird,African Grey Parrot,6,4,Débutant,1
+ADOPT_0699,15 - Tizi Ouzou,Appartement F4,50000,10,Reptile,Red-Eared Slider Turtle,3,0,Débutant,1
+ADOPT_0700,16 - Alger,Appartement F4,20000,4,Cat,Abyssinian,2,4,Intermédiaire,1
+ADOPT_0701,06 - Béjaïa,Villa avec jardin/cour,20000,4,Fish,Goldfish,6,0,Intermédiaire,1
+ADOPT_0702,16 - Alger,Appartement F4,20000,10,Fish,Angelfish,3,3,Expert,0
+ADOPT_0703,19 - Sétif,Maison traditionnelle,25000,7,Reptile,Red-Eared Slider Turtle,1,0,Débutant,1
+ADOPT_0704,47 - Ghardaïa,Appartement F4,20000,11,Small Mammal,Chinchilla,4,4,Débutant,1
+ADOPT_0705,23 - Annaba,Appartement F4,35000,8,Rabbit,Holland Lop,1,2,Intermédiaire,1
+ADOPT_0706,23 - Annaba,Villa avec jardin/cour,50000,4,Dog,Labrador Retriever,1,2,Intermédiaire,1
+ADOPT_0707,15 - Tizi Ouzou,Appartement F3,8000,2,Fish,Guppy,4,3,Expert,0
+ADOPT_0708,19 - Sétif,Appartement F4,20000,4,Dog,Shih Tzu,1,4,Expert,1
+ADOPT_0709,15 - Tizi Ouzou,Appartement F3,35000,3,Reptile,Ball Python,1,0,Intermédiaire,1
+ADOPT_0710,31 - Oran,Appartement F2,15000,10,Cat,Persian,6,3,Expert,1
+ADOPT_0711,09 - Blida,Maison traditionnelle,50000,7,Small Mammal,Chinchilla,2,2,Débutant,1
+ADOPT_0712,23 - Annaba,Maison traditionnelle,15000,4,Small Mammal,Hamster,2,3,Intermédiaire,1
+ADOPT_0713,15 - Tizi Ouzou,Maison traditionnelle,25000,7,Cat,Domestic Shorthair,5,4,Intermédiaire,0
+ADOPT_0714,23 - Annaba,Appartement F4,25000,11,Small Mammal,Ferret,3,1,Expert,1
+ADOPT_0715,16 - Alger,Appartement F3,8000,3,Bird,African Grey Parrot,4,3,Débutant,0
+ADOPT_0716,06 - Béjaïa,Villa avec jardin/cour,12000,11,Cat,British Shorthair,3,4,Intermédiaire,1
+ADOPT_0717,31 - Oran,Maison traditionnelle,8000,9,Small Mammal,Ferret,1,3,Intermédiaire,1
+ADOPT_0718,47 - Ghardaïa,Villa avec jardin/cour,12000,6,Small Mammal,Gerbil,3,1,Intermédiaire,0
+ADOPT_0719,06 - Béjaïa,Appartement F4,20000,3,Dog,Labrador Retriever,3,3,Intermédiaire,0
+ADOPT_0720,25 - Constantine,Appartement F4,50000,10,Bird,Budgerigar (Budgie),1,2,Intermédiaire,1
+ADOPT_0721,15 - Tizi Ouzou,Appartement F4,25000,9,Fish,Guppy,4,0,Expert,1
+ADOPT_0722,06 - Béjaïa,Maison traditionnelle,12000,8,Bird,Budgerigar (Budgie),1,4,Intermédiaire,1
+ADOPT_0723,19 - Sétif,Villa avec jardin/cour,50000,10,Dog,Siberian Husky,6,3,Débutant,1
+ADOPT_0724,47 - Ghardaïa,Maison traditionnelle,50000,9,Dog,French Bulldog,3,3,Expert,0
+ADOPT_0725,31 - Oran,Appartement F3,15000,12,Cat,British Shorthair,5,3,Intermédiaire,0
+ADOPT_0726,47 - Ghardaïa,Appartement F2,8000,12,Small Mammal,Gerbil,1,1,Débutant,1
+ADOPT_0727,47 - Ghardaïa,Villa avec jardin/cour,25000,9,Reptile,Ball Python,2,2,Débutant,1
+ADOPT_0728,13 - Tlemcen,Appartement F4,25000,7,Reptile,Red-Eared Slider Turtle,1,2,Expert,1
+ADOPT_0729,16 - Alger,Maison traditionnelle,20000,7,Cat,Persian,5,1,Débutant,1
+ADOPT_0730,16 - Alger,Appartement F4,8000,5,Cat,Persian,4,2,Expert,0
+ADOPT_0731,13 - Tlemcen,Appartement F4,35000,10,Rabbit,Flemish Giant,2,3,Expert,1
+ADOPT_0732,13 - Tlemcen,Appartement F3,12000,7,Dog,Dachshund,4,4,Débutant,0
+ADOPT_0733,25 - Constantine,Appartement F3,8000,9,Small Mammal,Ferret,6,0,Intermédiaire,1
+ADOPT_0734,47 - Ghardaïa,Appartement F3,35000,8,Dog,French Bulldog,5,3,Débutant,1
+ADOPT_0735,09 - Blida,Villa avec jardin/cour,25000,4,Bird,Lovebird,4,3,Expert,1
+ADOPT_0736,23 - Annaba,Villa avec jardin/cour,50000,8,Cat,Persian,5,1,Expert,1
+ADOPT_0737,19 - Sétif,Appartement F2,25000,3,Small Mammal,Chinchilla,5,3,Intermédiaire,0
+ADOPT_0738,23 - Annaba,Appartement F3,35000,9,Reptile,Bearded Dragon,5,4,Débutant,1
+ADOPT_0739,31 - Oran,Appartement F2,12000,12,Rabbit,Rex,6,3,Expert,0
+ADOPT_0740,15 - Tizi Ouzou,Appartement F4,25000,2,Fish,Angelfish,4,0,Intermédiaire,1
+ADOPT_0741,23 - Annaba,Maison traditionnelle,35000,6,Rabbit,Flemish Giant,2,2,Débutant,1
+ADOPT_0742,06 - Béjaïa,Appartement F4,35000,11,Reptile,Corn Snake,2,4,Expert,1
+ADOPT_0743,06 - Béjaïa,Maison traditionnelle,8000,3,Cat,Abyssinian,2,2,Expert,0
+ADOPT_0744,23 - Annaba,Appartement F4,12000,2,Cat,Abyssinian,6,4,Débutant,1
+ADOPT_0745,19 - Sétif,Maison traditionnelle,35000,4,Rabbit,Netherland Dwarf,3,1,Expert,1
+ADOPT_0746,19 - Sétif,Appartement F3,50000,3,Dog,Dachshund,2,4,Expert,1
+ADOPT_0747,13 - Tlemcen,Villa avec jardin/cour,50000,5,Fish,Betta,6,3,Intermédiaire,0
+ADOPT_0748,23 - Annaba,Appartement F3,25000,3,Reptile,Ball Python,1,2,Débutant,0
+ADOPT_0749,15 - Tizi Ouzou,Villa avec jardin/cour,15000,5,Bird,Macaw,4,3,Expert,1
+ADOPT_0750,13 - Tlemcen,Villa avec jardin/cour,15000,2,Reptile,Leopard Gecko,3,1,Intermédiaire,1
+ADOPT_0751,15 - Tizi Ouzou,Maison traditionnelle,35000,12,Bird,Cockatiel,3,0,Intermédiaire,0
+ADOPT_0752,23 - Annaba,Appartement F4,15000,12,Rabbit,Mini Lop,5,2,Intermédiaire,1
+ADOPT_0753,25 - Constantine,Maison traditionnelle,50000,7,Bird,Budgerigar (Budgie),5,1,Débutant,1
+ADOPT_0754,31 - Oran,Appartement F2,8000,10,Reptile,Bearded Dragon,1,3,Expert,0
+ADOPT_0755,16 - Alger,Appartement F3,35000,2,Bird,Cockatiel,5,2,Débutant,1
+ADOPT_0756,31 - Oran,Appartement F3,25000,3,Cat,Persian,5,0,Débutant,1
+ADOPT_0757,23 - Annaba,Appartement F3,8000,6,Bird,Lovebird,4,1,Expert,0
+ADOPT_0758,19 - Sétif,Appartement F4,50000,6,Cat,British Shorthair,2,3,Débutant,1
+ADOPT_0759,23 - Annaba,Villa avec jardin/cour,20000,6,Small Mammal,Chinchilla,2,2,Intermédiaire,1
+ADOPT_0760,06 - Béjaïa,Appartement F3,25000,3,Cat,British Shorthair,2,3,Expert,1
+ADOPT_0761,23 - Annaba,Appartement F3,25000,3,Fish,Tetra,1,0,Débutant,1
+ADOPT_0762,06 - Béjaïa,Appartement F4,50000,4,Cat,Persian,6,3,Expert,0
+ADOPT_0763,13 - Tlemcen,Villa avec jardin/cour,15000,11,Cat,Domestic Shorthair,1,1,Expert,1
+ADOPT_0764,31 - Oran,Villa avec jardin/cour,20000,10,Reptile,Leopard Gecko,2,3,Débutant,1
+ADOPT_0765,19 - Sétif,Appartement F2,25000,7,Bird,Macaw,6,4,Intermédiaire,1
+ADOPT_0766,19 - Sétif,Appartement F2,15000,3,Bird,African Grey Parrot,4,4,Intermédiaire,1
+ADOPT_0767,09 - Blida,Appartement F3,25000,6,Reptile,Ball Python,6,0,Intermédiaire,1
+ADOPT_0768,09 - Blida,Villa avec jardin/cour,8000,4,Cat,Abyssinian,1,3,Débutant,0
+ADOPT_0769,15 - Tizi Ouzou,Appartement F3,20000,12,Cat,Persian,3,3,Intermédiaire,0
+ADOPT_0770,16 - Alger,Appartement F2,8000,7,Rabbit,Flemish Giant,6,2,Débutant,0
+ADOPT_0771,15 - Tizi Ouzou,Appartement F3,50000,4,Bird,African Grey Parrot,6,4,Expert,1
+ADOPT_0772,06 - Béjaïa,Appartement F2,35000,12,Dog,French Bulldog,1,1,Intermédiaire,0
+ADOPT_0773,16 - Alger,Appartement F3,35000,6,Rabbit,Holland Lop,1,1,Intermédiaire,0
+ADOPT_0774,31 - Oran,Maison traditionnelle,8000,9,Rabbit,Netherland Dwarf,5,0,Expert,0
+ADOPT_0775,13 - Tlemcen,Appartement F3,20000,7,Dog,French Bulldog,1,2,Expert,1
+ADOPT_0776,47 - Ghardaïa,Appartement F3,15000,4,Rabbit,Rex,3,1,Débutant,1
+ADOPT_0777,19 - Sétif,Appartement F3,50000,10,Cat,Abyssinian,2,3,Intermédiaire,1
+ADOPT_0778,47 - Ghardaïa,Appartement F2,12000,8,Dog,Siberian Husky,2,0,Débutant,0
+ADOPT_0779,31 - Oran,Appartement F2,8000,12,Bird,African Grey Parrot,5,1,Intermédiaire,0
+ADOPT_0780,15 - Tizi Ouzou,Appartement F3,12000,9,Bird,Macaw,4,1,Débutant,1
+ADOPT_0781,06 - Béjaïa,Appartement F2,25000,11,Dog,Siberian Husky,1,1,Expert,0
+ADOPT_0782,09 - Blida,Appartement F4,20000,3,Fish,Goldfish,5,0,Débutant,1
+ADOPT_0783,09 - Blida,Maison traditionnelle,25000,6,Rabbit,Mini Lop,1,1,Débutant,1
+ADOPT_0784,16 - Alger,Villa avec jardin/cour,20000,2,Cat,Siamese,6,1,Intermédiaire,1
+ADOPT_0785,06 - Béjaïa,Villa avec jardin/cour,15000,2,Small Mammal,Ferret,1,2,Expert,1
+ADOPT_0786,31 - Oran,Appartement F3,12000,3,Cat,Persian,2,0,Expert,1
+ADOPT_0787,19 - Sétif,Maison traditionnelle,15000,5,Bird,Lovebird,1,3,Intermédiaire,1
+ADOPT_0788,13 - Tlemcen,Appartement F3,35000,5,Dog,French Bulldog,1,3,Intermédiaire,1
+ADOPT_0789,47 - Ghardaïa,Appartement F2,20000,9,Rabbit,Flemish Giant,2,1,Intermédiaire,1
+ADOPT_0790,23 - Annaba,Villa avec jardin/cour,35000,5,Small Mammal,Ferret,3,1,Débutant,1
+ADOPT_0791,06 - Béjaïa,Appartement F2,15000,9,Cat,Persian,4,1,Débutant,0
+ADOPT_0792,25 - Constantine,Appartement F3,15000,12,Fish,Goldfish,5,4,Débutant,0
+ADOPT_0793,15 - Tizi Ouzou,Appartement F3,8000,9,Rabbit,Rex,2,3,Expert,0
+ADOPT_0794,09 - Blida,Appartement F4,8000,5,Bird,Macaw,3,3,Intermédiaire,0
+ADOPT_0795,13 - Tlemcen,Maison traditionnelle,12000,2,Rabbit,Netherland Dwarf,1,4,Intermédiaire,1
+ADOPT_0796,31 - Oran,Appartement F2,20000,9,Reptile,Corn Snake,4,4,Débutant,1
+ADOPT_0797,25 - Constantine,Appartement F2,35000,7,Cat,Persian,3,3,Débutant,1
+ADOPT_0798,06 - Béjaïa,Appartement F2,20000,11,Reptile,Bearded Dragon,6,2,Expert,1
+ADOPT_0799,13 - Tlemcen,Villa avec jardin/cour,50000,4,Cat,British Shorthair,3,1,Expert,1
+ADOPT_0800,23 - Annaba,Appartement F2,20000,8,Bird,African Grey Parrot,3,2,Expert,1
+ADOPT_0801,31 - Oran,Maison traditionnelle,50000,11,Rabbit,Rex,3,1,Expert,1
+ADOPT_0802,13 - Tlemcen,Appartement F4,8000,7,Cat,Persian,4,0,Expert,0
+ADOPT_0803,15 - Tizi Ouzou,Appartement F4,12000,5,Cat,Abyssinian,2,4,Intermédiaire,1
+ADOPT_0804,47 - Ghardaïa,Appartement F2,35000,5,Dog,Siberian Husky,6,3,Débutant,0
+ADOPT_0805,31 - Oran,Appartement F4,25000,7,Small Mammal,Hamster,3,3,Intermédiaire,1
+ADOPT_0806,15 - Tizi Ouzou,Maison traditionnelle,50000,12,Bird,Lovebird,5,0,Intermédiaire,1
+ADOPT_0807,06 - Béjaïa,Appartement F4,50000,3,Bird,Lovebird,1,0,Intermédiaire,1
+ADOPT_0808,23 - Annaba,Appartement F2,8000,3,Dog,Labrador Retriever,6,1,Débutant,0
+ADOPT_0809,15 - Tizi Ouzou,Appartement F3,25000,4,Bird,Budgerigar (Budgie),4,0,Intermédiaire,1
+ADOPT_0810,09 - Blida,Appartement F2,15000,10,Bird,Macaw,6,1,Intermédiaire,0
+ADOPT_0811,15 - Tizi Ouzou,Appartement F4,35000,10,Bird,Lovebird,4,2,Intermédiaire,1
+ADOPT_0812,23 - Annaba,Appartement F3,50000,5,Small Mammal,Guinea Pig,4,2,Intermédiaire,1
+ADOPT_0813,25 - Constantine,Appartement F3,15000,11,Small Mammal,Chinchilla,2,2,Expert,1
+ADOPT_0814,31 - Oran,Appartement F3,12000,2,Rabbit,Mini Lop,3,1,Expert,1
+ADOPT_0815,16 - Alger,Appartement F4,15000,12,Dog,Dachshund,3,1,Intermédiaire,1
+ADOPT_0816,31 - Oran,Villa avec jardin/cour,25000,2,Dog,Labrador Retriever,4,1,Intermédiaire,1
+ADOPT_0817,15 - Tizi Ouzou,Villa avec jardin/cour,15000,10,Fish,Betta,3,1,Expert,0
+ADOPT_0818,47 - Ghardaïa,Villa avec jardin/cour,15000,9,Reptile,Red-Eared Slider Turtle,3,4,Expert,1
+ADOPT_0819,16 - Alger,Appartement F2,12000,8,Cat,British Shorthair,5,4,Débutant,0
+ADOPT_0820,09 - Blida,Appartement F2,15000,11,Bird,Cockatiel,5,0,Débutant,1
+ADOPT_0821,15 - Tizi Ouzou,Appartement F3,8000,9,Fish,Goldfish,6,0,Expert,0
+ADOPT_0822,47 - Ghardaïa,Villa avec jardin/cour,12000,10,Cat,Persian,1,3,Expert,1
+ADOPT_0823,19 - Sétif,Appartement F3,35000,2,Small Mammal,Gerbil,3,3,Intermédiaire,1
+ADOPT_0824,06 - Béjaïa,Villa avec jardin/cour,50000,8,Small Mammal,Hamster,4,4,Intermédiaire,0
+ADOPT_0825,47 - Ghardaïa,Villa avec jardin/cour,12000,3,Dog,Dachshund,2,4,Débutant,0
+ADOPT_0826,47 - Ghardaïa,Maison traditionnelle,15000,8,Small Mammal,Gerbil,1,0,Débutant,1
+ADOPT_0827,47 - Ghardaïa,Villa avec jardin/cour,12000,4,Bird,Cockatiel,2,4,Débutant,1
+ADOPT_0828,16 - Alger,Appartement F4,25000,6,Fish,Tetra,5,3,Intermédiaire,0
+ADOPT_0829,25 - Constantine,Villa avec jardin/cour,12000,6,Bird,Lovebird,3,0,Expert,1
+ADOPT_0830,06 - Béjaïa,Appartement F2,35000,12,Fish,Tetra,2,2,Débutant,1
+ADOPT_0831,19 - Sétif,Villa avec jardin/cour,8000,11,Cat,Abyssinian,4,4,Expert,0
+ADOPT_0832,47 - Ghardaïa,Villa avec jardin/cour,35000,2,Bird,Cockatiel,3,0,Débutant,1
+ADOPT_0833,25 - Constantine,Appartement F3,15000,7,Rabbit,Holland Lop,2,3,Débutant,1
+ADOPT_0834,23 - Annaba,Villa avec jardin/cour,35000,10,Small Mammal,Hamster,6,2,Débutant,0
+ADOPT_0835,25 - Constantine,Appartement F3,50000,10,Rabbit,Netherland Dwarf,3,0,Intermédiaire,1
+ADOPT_0836,47 - Ghardaïa,Appartement F4,35000,7,Fish,Goldfish,2,2,Débutant,0
+ADOPT_0837,25 - Constantine,Appartement F4,15000,3,Dog,Siberian Husky,2,3,Débutant,1
+ADOPT_0838,15 - Tizi Ouzou,Appartement F3,50000,10,Rabbit,Netherland Dwarf,6,4,Expert,1
+ADOPT_0839,25 - Constantine,Villa avec jardin/cour,20000,2,Reptile,Bearded Dragon,4,0,Intermédiaire,0
+ADOPT_0840,47 - Ghardaïa,Appartement F3,50000,10,Small Mammal,Hamster,3,3,Débutant,1
+ADOPT_0841,25 - Constantine,Appartement F2,35000,5,Reptile,Red-Eared Slider Turtle,3,0,Débutant,1
+ADOPT_0842,31 - Oran,Appartement F2,20000,2,Dog,Shih Tzu,4,0,Intermédiaire,0
+ADOPT_0843,47 - Ghardaïa,Appartement F2,8000,2,Cat,Siamese,4,4,Débutant,0
+ADOPT_0844,31 - Oran,Appartement F2,15000,11,Small Mammal,Chinchilla,2,0,Expert,1
+ADOPT_0845,25 - Constantine,Appartement F4,8000,6,Dog,Shih Tzu,5,0,Intermédiaire,0
+ADOPT_0846,47 - Ghardaïa,Maison traditionnelle,50000,3,Small Mammal,Ferret,1,4,Expert,1
+ADOPT_0847,25 - Constantine,Maison traditionnelle,12000,10,Fish,Guppy,1,1,Expert,1
+ADOPT_0848,47 - Ghardaïa,Maison traditionnelle,50000,4,Cat,Siamese,4,3,Expert,1
+ADOPT_0849,09 - Blida,Appartement F4,20000,8,Cat,Siamese,1,3,Intermédiaire,1
+ADOPT_0850,19 - Sétif,Appartement F2,25000,6,Cat,British Shorthair,5,1,Expert,1
+ADOPT_0851,06 - Béjaïa,Appartement F4,20000,11,Cat,Domestic Shorthair,6,0,Intermédiaire,1
+ADOPT_0852,13 - Tlemcen,Appartement F3,25000,5,Reptile,Leopard Gecko,1,3,Intermédiaire,1
+ADOPT_0853,31 - Oran,Appartement F3,8000,8,Reptile,Red-Eared Slider Turtle,4,3,Expert,0
+ADOPT_0854,47 - Ghardaïa,Appartement F2,12000,3,Reptile,Bearded Dragon,6,3,Débutant,1
+ADOPT_0855,13 - Tlemcen,Appartement F3,15000,3,Cat,Abyssinian,2,1,Intermédiaire,1
+ADOPT_0856,13 - Tlemcen,Appartement F4,50000,7,Reptile,Leopard Gecko,4,4,Expert,1
+ADOPT_0857,06 - Béjaïa,Villa avec jardin/cour,25000,3,Rabbit,Flemish Giant,1,2,Intermédiaire,0
+ADOPT_0858,16 - Alger,Appartement F3,35000,3,Bird,Macaw,4,1,Expert,0
+ADOPT_0859,47 - Ghardaïa,Villa avec jardin/cour,25000,11,Cat,Siamese,1,2,Débutant,1
+ADOPT_0860,06 - Béjaïa,Villa avec jardin/cour,50000,9,Reptile,Corn Snake,5,3,Intermédiaire,1
+ADOPT_0861,16 - Alger,Maison traditionnelle,25000,8,Rabbit,Mini Lop,1,0,Intermédiaire,1
+ADOPT_0862,25 - Constantine,Villa avec jardin/cour,20000,10,Bird,Cockatiel,6,3,Intermédiaire,0
+ADOPT_0863,13 - Tlemcen,Villa avec jardin/cour,20000,9,Reptile,Ball Python,1,1,Expert,1
+ADOPT_0864,06 - Béjaïa,Maison traditionnelle,35000,10,Reptile,Leopard Gecko,2,4,Expert,1
+ADOPT_0865,47 - Ghardaïa,Appartement F4,20000,12,Cat,British Shorthair,3,4,Intermédiaire,1
+ADOPT_0866,19 - Sétif,Appartement F2,25000,7,Small Mammal,Chinchilla,6,0,Expert,0
+ADOPT_0867,19 - Sétif,Villa avec jardin/cour,8000,7,Cat,Abyssinian,4,3,Intermédiaire,0
+ADOPT_0868,31 - Oran,Appartement F3,12000,6,Cat,Siamese,1,2,Intermédiaire,1
+ADOPT_0869,13 - Tlemcen,Maison traditionnelle,15000,11,Dog,French Bulldog,5,0,Intermédiaire,1
+ADOPT_0870,13 - Tlemcen,Villa avec jardin/cour,25000,11,Small Mammal,Chinchilla,4,0,Intermédiaire,1
+ADOPT_0871,19 - Sétif,Villa avec jardin/cour,8000,9,Rabbit,Holland Lop,5,1,Expert,0
+ADOPT_0872,09 - Blida,Maison traditionnelle,15000,9,Small Mammal,Ferret,6,2,Débutant,1
+ADOPT_0873,47 - Ghardaïa,Appartement F3,15000,8,Fish,Angelfish,2,2,Expert,0
+ADOPT_0874,19 - Sétif,Maison traditionnelle,8000,6,Reptile,Bearded Dragon,1,4,Expert,0
+ADOPT_0875,31 - Oran,Villa avec jardin/cour,20000,12,Fish,Angelfish,3,1,Expert,1
+ADOPT_0876,19 - Sétif,Villa avec jardin/cour,35000,5,Fish,Goldfish,4,4,Intermédiaire,0
+ADOPT_0877,16 - Alger,Maison traditionnelle,20000,12,Small Mammal,Guinea Pig,6,4,Expert,1
+ADOPT_0878,06 - Béjaïa,Maison traditionnelle,20000,6,Fish,Betta,6,1,Expert,1
+ADOPT_0879,19 - Sétif,Villa avec jardin/cour,25000,9,Fish,Angelfish,2,0,Débutant,1
+ADOPT_0880,31 - Oran,Villa avec jardin/cour,20000,12,Dog,Labrador Retriever,2,2,Intermédiaire,1
+ADOPT_0881,09 - Blida,Appartement F3,15000,3,Small Mammal,Hamster,2,4,Débutant,1
+ADOPT_0882,13 - Tlemcen,Appartement F4,20000,8,Cat,Siamese,6,3,Débutant,1
+ADOPT_0883,23 - Annaba,Appartement F4,12000,6,Dog,Shih Tzu,6,0,Expert,0
+ADOPT_0884,31 - Oran,Villa avec jardin/cour,50000,7,Dog,French Bulldog,5,0,Intermédiaire,0
+ADOPT_0885,25 - Constantine,Villa avec jardin/cour,15000,5,Fish,Guppy,1,0,Expert,1
+ADOPT_0886,15 - Tizi Ouzou,Appartement F2,25000,6,Reptile,Corn Snake,4,4,Débutant,1
+ADOPT_0887,19 - Sétif,Appartement F2,50000,11,Dog,Siberian Husky,6,2,Intermédiaire,0
+ADOPT_0888,09 - Blida,Villa avec jardin/cour,12000,6,Fish,Betta,4,1,Intermédiaire,0
+ADOPT_0889,19 - Sétif,Appartement F2,20000,3,Small Mammal,Guinea Pig,3,4,Expert,0
+ADOPT_0890,19 - Sétif,Appartement F3,15000,6,Bird,Macaw,1,1,Expert,1
+ADOPT_0891,13 - Tlemcen,Appartement F2,35000,6,Rabbit,Holland Lop,6,1,Expert,1
+ADOPT_0892,13 - Tlemcen,Maison traditionnelle,50000,2,Small Mammal,Chinchilla,4,1,Intermédiaire,1
+ADOPT_0893,25 - Constantine,Appartement F3,15000,9,Small Mammal,Chinchilla,6,1,Intermédiaire,1
+ADOPT_0894,06 - Béjaïa,Appartement F2,15000,9,Fish,Tetra,6,0,Intermédiaire,1
+ADOPT_0895,23 - Annaba,Villa avec jardin/cour,50000,10,Fish,Goldfish,1,0,Intermédiaire,1
+ADOPT_0896,16 - Alger,Maison traditionnelle,35000,2,Bird,Lovebird,6,2,Expert,1
+ADOPT_0897,09 - Blida,Appartement F3,8000,12,Dog,Dachshund,3,3,Intermédiaire,0
+ADOPT_0898,25 - Constantine,Appartement F2,12000,11,Rabbit,Holland Lop,6,1,Intermédiaire,1
+ADOPT_0899,47 - Ghardaïa,Villa avec jardin/cour,20000,7,Fish,Goldfish,3,1,Débutant,1
+ADOPT_0900,47 - Ghardaïa,Appartement F4,12000,5,Cat,British Shorthair,1,3,Débutant,1
+ADOPT_0901,09 - Blida,Appartement F3,8000,6,Rabbit,Rex,6,3,Débutant,0
+ADOPT_0902,31 - Oran,Maison traditionnelle,20000,7,Cat,British Shorthair,2,4,Expert,1
+ADOPT_0903,06 - Béjaïa,Maison traditionnelle,20000,3,Cat,Domestic Shorthair,2,3,Expert,1
+ADOPT_0904,13 - Tlemcen,Appartement F4,15000,5,Dog,Shih Tzu,5,3,Débutant,1
+ADOPT_0905,25 - Constantine,Appartement F3,20000,2,Fish,Goldfish,3,1,Intermédiaire,1
+ADOPT_0906,47 - Ghardaïa,Villa avec jardin/cour,12000,12,Dog,Siberian Husky,6,2,Intermédiaire,0
+ADOPT_0907,13 - Tlemcen,Villa avec jardin/cour,12000,12,Cat,Domestic Shorthair,2,2,Expert,1
+ADOPT_0908,16 - Alger,Maison traditionnelle,15000,2,Bird,Macaw,3,0,Débutant,0
+ADOPT_0909,16 - Alger,Maison traditionnelle,35000,2,Bird,Cockatiel,3,4,Expert,1
+ADOPT_0910,15 - Tizi Ouzou,Appartement F4,20000,2,Rabbit,Flemish Giant,5,2,Débutant,0
+ADOPT_0911,25 - Constantine,Maison traditionnelle,20000,3,Small Mammal,Ferret,3,2,Expert,1
+ADOPT_0912,25 - Constantine,Appartement F3,15000,9,Rabbit,Flemish Giant,3,0,Expert,1
+ADOPT_0913,23 - Annaba,Appartement F4,15000,10,Small Mammal,Gerbil,3,4,Intermédiaire,1
+ADOPT_0914,06 - Béjaïa,Villa avec jardin/cour,50000,2,Dog,Labrador Retriever,2,1,Débutant,1
+ADOPT_0915,23 - Annaba,Appartement F3,8000,4,Cat,Siamese,6,3,Intermédiaire,0
+ADOPT_0916,19 - Sétif,Villa avec jardin/cour,8000,10,Bird,African Grey Parrot,4,3,Intermédiaire,0
+ADOPT_0917,31 - Oran,Appartement F3,8000,5,Bird,African Grey Parrot,3,2,Débutant,0
+ADOPT_0918,47 - Ghardaïa,Maison traditionnelle,50000,5,Fish,Betta,5,2,Débutant,1
+ADOPT_0919,06 - Béjaïa,Appartement F3,20000,12,Rabbit,Rex,1,0,Intermédiaire,1
+ADOPT_0920,31 - Oran,Appartement F2,20000,7,Cat,Abyssinian,2,2,Débutant,1
+ADOPT_0921,16 - Alger,Villa avec jardin/cour,20000,7,Cat,British Shorthair,1,2,Expert,1
+ADOPT_0922,16 - Alger,Appartement F4,35000,12,Rabbit,Flemish Giant,3,4,Intermédiaire,0
+ADOPT_0923,13 - Tlemcen,Appartement F2,25000,3,Fish,Guppy,4,4,Intermédiaire,0
+ADOPT_0924,09 - Blida,Villa avec jardin/cour,8000,4,Dog,Shih Tzu,4,0,Intermédiaire,0
+ADOPT_0925,13 - Tlemcen,Appartement F2,15000,6,Small Mammal,Ferret,6,3,Expert,0
+ADOPT_0926,15 - Tizi Ouzou,Appartement F2,50000,5,Dog,Labrador Retriever,4,2,Intermédiaire,0
+ADOPT_0927,13 - Tlemcen,Appartement F4,25000,7,Bird,Macaw,5,4,Débutant,1
+ADOPT_0928,19 - Sétif,Appartement F2,8000,9,Bird,Macaw,6,4,Débutant,0
+ADOPT_0929,06 - Béjaïa,Villa avec jardin/cour,25000,8,Reptile,Ball Python,1,4,Intermédiaire,0
+ADOPT_0930,15 - Tizi Ouzou,Appartement F3,35000,8,Small Mammal,Ferret,3,2,Expert,1
+ADOPT_0931,31 - Oran,Appartement F2,8000,10,Cat,Persian,4,4,Intermédiaire,0
+ADOPT_0932,47 - Ghardaïa,Maison traditionnelle,50000,3,Cat,British Shorthair,5,2,Débutant,1
+ADOPT_0933,16 - Alger,Appartement F3,50000,3,Cat,British Shorthair,4,1,Expert,1
+ADOPT_0934,06 - Béjaïa,Maison traditionnelle,35000,11,Small Mammal,Hamster,3,3,Intermédiaire,1
+ADOPT_0935,47 - Ghardaïa,Appartement F3,12000,6,Fish,Betta,6,0,Débutant,1
+ADOPT_0936,31 - Oran,Appartement F2,8000,2,Bird,Lovebird,2,3,Expert,0
+ADOPT_0937,23 - Annaba,Villa avec jardin/cour,50000,11,Bird,Macaw,5,4,Intermédiaire,1
+ADOPT_0938,25 - Constantine,Appartement F4,8000,2,Reptile,Leopard Gecko,2,1,Débutant,0
+ADOPT_0939,25 - Constantine,Appartement F3,50000,12,Fish,Guppy,2,0,Intermédiaire,1
+ADOPT_0940,06 - Béjaïa,Appartement F3,8000,4,Fish,Angelfish,4,2,Intermédiaire,0
+ADOPT_0941,06 - Béjaïa,Appartement F3,12000,2,Cat,Domestic Shorthair,4,3,Expert,1
+ADOPT_0942,16 - Alger,Appartement F4,25000,3,Dog,Shih Tzu,6,3,Expert,0
+ADOPT_0943,15 - Tizi Ouzou,Villa avec jardin/cour,35000,6,Bird,Macaw,1,4,Intermédiaire,1
+ADOPT_0944,06 - Béjaïa,Maison traditionnelle,25000,5,Bird,Macaw,6,4,Débutant,1
+ADOPT_0945,23 - Annaba,Villa avec jardin/cour,25000,12,Rabbit,Holland Lop,4,2,Intermédiaire,1
+ADOPT_0946,13 - Tlemcen,Maison traditionnelle,35000,2,Cat,British Shorthair,2,2,Intermédiaire,1
+ADOPT_0947,09 - Blida,Villa avec jardin/cour,15000,11,Reptile,Ball Python,6,3,Intermédiaire,1
+ADOPT_0948,19 - Sétif,Appartement F3,15000,9,Rabbit,Flemish Giant,2,3,Expert,1
+ADOPT_0949,25 - Constantine,Appartement F2,35000,4,Dog,Labrador Retriever,2,3,Débutant,0
+ADOPT_0950,06 - Béjaïa,Appartement F2,50000,6,Rabbit,Flemish Giant,2,3,Débutant,0
+ADOPT_0951,25 - Constantine,Appartement F2,15000,4,Rabbit,Holland Lop,5,2,Débutant,1
+ADOPT_0952,31 - Oran,Appartement F4,20000,10,Fish,Guppy,2,0,Intermédiaire,1
+ADOPT_0953,15 - Tizi Ouzou,Appartement F4,50000,6,Small Mammal,Hamster,2,0,Expert,1
+ADOPT_0954,06 - Béjaïa,Maison traditionnelle,35000,9,Fish,Angelfish,1,0,Débutant,1
+ADOPT_0955,16 - Alger,Maison traditionnelle,50000,10,Fish,Angelfish,1,0,Débutant,1
+ADOPT_0956,06 - Béjaïa,Appartement F3,15000,10,Reptile,Bearded Dragon,4,1,Expert,1
+ADOPT_0957,25 - Constantine,Appartement F3,35000,3,Fish,Guppy,2,2,Intermédiaire,1
+ADOPT_0958,15 - Tizi Ouzou,Appartement F3,50000,4,Bird,African Grey Parrot,1,3,Intermédiaire,1
+ADOPT_0959,15 - Tizi Ouzou,Appartement F4,35000,8,Small Mammal,Gerbil,2,1,Débutant,1
+ADOPT_0960,15 - Tizi Ouzou,Villa avec jardin/cour,20000,12,Fish,Tetra,3,3,Débutant,0
+ADOPT_0961,31 - Oran,Appartement F2,35000,7,Bird,Budgerigar (Budgie),3,4,Intermédiaire,1
+ADOPT_0962,16 - Alger,Villa avec jardin/cour,8000,12,Fish,Betta,6,3,Débutant,0
+ADOPT_0963,15 - Tizi Ouzou,Maison traditionnelle,15000,6,Rabbit,Holland Lop,6,3,Expert,1
+ADOPT_0964,47 - Ghardaïa,Appartement F2,50000,4,Small Mammal,Hamster,6,2,Intermédiaire,1
+ADOPT_0965,19 - Sétif,Maison traditionnelle,25000,12,Bird,Budgerigar (Budgie),4,4,Débutant,1
+ADOPT_0966,25 - Constantine,Appartement F2,25000,10,Small Mammal,Chinchilla,5,2,Intermédiaire,1
+ADOPT_0967,25 - Constantine,Maison traditionnelle,25000,2,Dog,French Bulldog,1,2,Expert,1
+ADOPT_0968,15 - Tizi Ouzou,Appartement F3,50000,3,Rabbit,Mini Lop,6,2,Débutant,1
+ADOPT_0969,19 - Sétif,Appartement F4,35000,3,Fish,Goldfish,1,4,Expert,0
+ADOPT_0970,09 - Blida,Appartement F4,25000,11,Cat,British Shorthair,5,0,Expert,1
+ADOPT_0971,47 - Ghardaïa,Maison traditionnelle,12000,12,Reptile,Corn Snake,2,2,Expert,1
+ADOPT_0972,15 - Tizi Ouzou,Appartement F3,8000,11,Bird,Lovebird,2,2,Intermédiaire,0
+ADOPT_0973,31 - Oran,Appartement F3,35000,3,Bird,African Grey Parrot,1,3,Intermédiaire,1
+ADOPT_0974,15 - Tizi Ouzou,Appartement F3,20000,8,Dog,Dachshund,5,0,Expert,1
+ADOPT_0975,06 - Béjaïa,Appartement F4,25000,9,Rabbit,Flemish Giant,6,3,Intermédiaire,1
+ADOPT_0976,06 - Béjaïa,Appartement F3,25000,4,Fish,Betta,6,1,Expert,1
+ADOPT_0977,16 - Alger,Appartement F2,35000,4,Fish,Angelfish,5,1,Intermédiaire,1
+ADOPT_0978,19 - Sétif,Villa avec jardin/cour,8000,11,Cat,Persian,3,0,Débutant,0
+ADOPT_0979,23 - Annaba,Appartement F2,15000,6,Rabbit,Netherland Dwarf,4,2,Débutant,1
+ADOPT_0980,13 - Tlemcen,Appartement F3,50000,2,Fish,Betta,3,4,Intermédiaire,0
+ADOPT_0981,15 - Tizi Ouzou,Villa avec jardin/cour,8000,7,Dog,Shih Tzu,1,0,Débutant,0
+ADOPT_0982,19 - Sétif,Maison traditionnelle,15000,8,Bird,Macaw,4,4,Expert,1
+ADOPT_0983,06 - Béjaïa,Appartement F3,50000,9,Fish,Angelfish,6,1,Intermédiaire,1
+ADOPT_0984,47 - Ghardaïa,Appartement F2,50000,8,Dog,Labrador Retriever,4,4,Débutant,0
+ADOPT_0985,23 - Annaba,Maison traditionnelle,8000,12,Bird,Cockatiel,1,3,Débutant,0
+ADOPT_0986,31 - Oran,Maison traditionnelle,35000,12,Reptile,Bearded Dragon,5,2,Débutant,1
+ADOPT_0987,15 - Tizi Ouzou,Maison traditionnelle,25000,5,Dog,Siberian Husky,4,0,Expert,1
+ADOPT_0988,09 - Blida,Maison traditionnelle,12000,5,Cat,Domestic Shorthair,6,0,Expert,1
+ADOPT_0989,16 - Alger,Maison traditionnelle,25000,9,Bird,African Grey Parrot,1,2,Intermédiaire,1
+ADOPT_0990,19 - Sétif,Villa avec jardin/cour,8000,8,Bird,Budgerigar (Budgie),3,4,Débutant,0
+ADOPT_0991,23 - Annaba,Maison traditionnelle,12000,3,Cat,Domestic Shorthair,2,2,Intermédiaire,0
+ADOPT_0992,16 - Alger,Appartement F2,25000,6,Bird,Budgerigar (Budgie),4,2,Débutant,1
+ADOPT_0993,31 - Oran,Villa avec jardin/cour,15000,2,Small Mammal,Ferret,2,2,Débutant,1
+ADOPT_0994,15 - Tizi Ouzou,Maison traditionnelle,12000,10,Fish,Angelfish,4,3,Débutant,0
+ADOPT_0995,06 - Béjaïa,Appartement F4,20000,2,Small Mammal,Chinchilla,4,4,Expert,1
+ADOPT_0996,09 - Blida,Appartement F4,25000,10,Dog,French Bulldog,6,4,Débutant,1
+ADOPT_0997,15 - Tizi Ouzou,Villa avec jardin/cour,20000,5,Small Mammal,Guinea Pig,2,0,Intermédiaire,1
+ADOPT_0998,15 - Tizi Ouzou,Appartement F3,25000,9,Rabbit,Netherland Dwarf,1,3,Débutant,1
+ADOPT_0999,06 - Béjaïa,Maison traditionnelle,15000,6,Fish,Tetra,5,1,Intermédiaire,0
+ADOPT_1000,15 - Tizi Ouzou,Appartement F4,50000,6,Fish,Tetra,1,1,Débutant,1

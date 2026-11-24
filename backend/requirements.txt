@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+sqlalchemy>=2
+joblib
+pandas
+numpy
+scipy
+scikit-learn==1.8.0   # même version que celle qui a créé le .pkl
+xgboost==3.4.1       # version avec laquelle l'API a été testée
+pytest
+httpx
+psycopg[binary]>=3.2,<4

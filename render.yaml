@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: petmatch            # site complet : front + back dans UN seul service
+    runtime: docker           # utilise le Dockerfile à la racine
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATABASE_URL
+        sync: false           # URL PostgreSQL (Neon) : à saisir dans le Dashboard Render
+      - key: ADMIN_KEY
+        sync: false           # à saisir dans le Dashboard Render
+      - key: COMMENTS_AUTO_APPROVE
+        value: "true"
+      - key: COMMENTS_PER_HOUR
+        value: "5"

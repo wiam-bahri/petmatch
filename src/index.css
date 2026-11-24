@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Baloo Bhaijaan 2 = police principale (titres + interface) */
+@font-face {
+  font-family: 'Baloo Bhaijaan 2';
+  src: url('/fonts/BalooBhaijaan2-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400 800;
+  font-display: swap;
+}
+/* Alexandria = police secondaire (descriptions, petits textes) */
+@font-face {
+  font-family: 'Alexandria';
+  src: url('/fonts/Alexandria-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body {
+    @apply bg-grape font-baloo text-white antialiased;
+  }
+  :focus-visible { outline: 3px solid #FFD83D; outline-offset: 3px; }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-full bg-tang px-7 py-2 font-baloo text-base font-semibold text-white shadow-[0_4px_0_#C4461F] transition active:translate-y-[2px] active:shadow-[0_2px_0_#C4461F] hover:brightness-105;
+  }
+  .btn-sm { @apply px-5 py-1 text-sm; }
+  .desc { @apply font-alex text-[13px] font-light leading-relaxed; }
+  .title { @apply font-baloo font-extrabold leading-[1.05] tracking-tight; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

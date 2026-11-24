@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Baloo Bhaijaan 2 = police principale (titres + interface) */
+@font-face {
+  font-family: 'Baloo Bhaijaan 2';
+  src: url('/fonts/BalooBhaijaan2-VariableFont_wght.ttf') format('truetype');
+  font-weight: 400 800;
+  font-display: swap;
+}
+/* Alexandria = police secondaire (descriptions, petits textes) */
+@font-face {
+  font-family: 'Alexandria';
+  src: url('/fonts/Alexandria-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body {
+    @apply bg-grape font-baloo text-white antialiased;
+  }
+  :focus-visible { outline: 3px solid #FFD83D; outline-offset: 3px; }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-full bg-tang px-7 py-2 font-baloo text-base font-semibold text-white shadow-[0_4px_0_#C4461F] transition active:translate-y-[2px] active:shadow-[0_2px_0_#C4461F] hover:brightness-105;
+  }
+  .btn-sm { @apply px-5 py-1 text-sm; }
+  .desc { @apply font-alex text-[13px] font-light leading-relaxed; }
+  .title { @apply font-baloo font-extrabold leading-[1.05] tracking-tight; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+
+/* Smooth, lightweight scroll-reveal and image hover motion */
+@layer utilities {
+  .scroll-reveal {
+    opacity: 0;
+    transform: translate3d(0, 18px, 0);
+    transition: opacity 650ms cubic-bezier(.22,.61,.36,1), transform 650ms cubic-bezier(.22,.61,.36,1);
+    transition-delay: var(--reveal-delay, 0ms);
+    will-change: opacity, transform;
+  }
+  .scroll-reveal-visible { opacity: 1; transform: translate3d(0,0,0); }
+  main img { transition: filter 450ms ease; }
+  main img:hover { filter: saturate(1.05) brightness(1.025); }
+}
+.comments-list-scroll {
+  max-height: min(62vh, 560px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255,216,61,.65) rgba(255,255,255,.12);
+  padding: 2px 6px 2px 2px;
+}
+.comments-list-scroll::-webkit-scrollbar { width: 7px; }
+.comments-list-scroll::-webkit-scrollbar-track { background: rgba(255,255,255,.10); border-radius: 999px; }
+.comments-list-scroll::-webkit-scrollbar-thumb { background: rgba(255,216,61,.65); border-radius: 999px; }
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal { opacity: 1; transform: none; transition: none; }
+  main img, main img:hover { transition: none; filter: none; }
+}

@@ -1,0 +1,261 @@
+{
+ "/animals/dogs/labrador_retriever.jpg": {
+  "species": "Dog",
+  "breed": "Labrador Retriever",
+  "author": "Aciarium",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:DSC09611a_Search_and_Rescue_Dog,_Austrian_Red_Cross_Perchtoldsdorf,_2024-10.jpg"
+ },
+ "/animals/dogs/french_bulldog.jpg": {
+  "species": "Dog",
+  "breed": "French Bulldog",
+  "author": "W.carter",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:French_bulldog_in_life_jacket.jpg"
+ },
+ "/animals/dogs/golden_retriever.jpg": {
+  "species": "Dog",
+  "breed": "Golden Retriever",
+  "author": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Golden_Retriever_--_2022_--_5945.jpg"
+ },
+ "/animals/dogs/mixed_breed.jpg": {
+  "species": "Dog",
+  "breed": "Mixed Breed",
+  "author": "Wilfredor",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Dog_hybrid_from_Venezuela.jpg"
+ },
+ "/animals/dogs/poodle.jpg": {
+  "species": "Dog",
+  "breed": "Poodle",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Toy_Poodle_wearing_clothes_in_Tokyo.jpg"
+ },
+ "/animals/dogs/beagle.jpg": {
+  "species": "Dog",
+  "breed": "Beagle",
+  "author": "Trougnouf (Benoit Brummer)",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Beagle_in_Viroinval_(DSC04556).jpg"
+ },
+ "/animals/dogs/boxer.jpg": {
+  "species": "Dog",
+  "breed": "Boxer",
+  "author": "OleNeitzel",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Deutscher_Boxer_Elmo_vom_Freudenreich.jpg"
+ },
+ "/animals/dogs/rottweiler.jpg": {
+  "species": "Dog",
+  "breed": "Rottweiler",
+  "author": "mar_qs",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rottweiler_-52773841920.jpg"
+ },
+ "/animals/dogs/chihuahua.jpg": {
+  "species": "Dog",
+  "breed": "Chihuahua",
+  "author": "JackyM59",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chihuahua_qui_profite_du_soleil.jpg"
+ },
+ "/animals/cats/domestic_shorthair.jpg": {
+  "species": "Cat",
+  "breed": "Domestic Shorthair",
+  "author": "<a href=\"https://pixnio.com/media/grey-domestic-cat-nose-mouth-whiskers\">Photo</a> by <a href=\"https://pixnio.com/author/milim84\">Marko Milivojevic</a> on <a href=\"https://pixnio.com/\">Pixnio</a>",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Domestic_shorthair_cat_portrait_in_grass.jpg"
+ },
+ "/animals/cats/maine_coon.jpg": {
+  "species": "Cat",
+  "breed": "Maine Coon",
+  "author": "T. Bjornstad",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Maine_Coon_kittens_NO_Sigdalskauen.jpg"
+ },
+ "/animals/cats/siamese.jpg": {
+  "species": "Cat",
+  "breed": "Siamese",
+  "author": "Felinlove",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Siamese_cat,_female.jpg"
+ },
+ "/animals/cats/ragdoll.jpg": {
+  "species": "Cat",
+  "breed": "Ragdoll",
+  "author": "BlackIceNRW",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ragdoll_Kater,_drei_Jahre_alt,_RAG_n_21_seal-tabby-colourpoint,_Januar_2015.JPG"
+ },
+ "/animals/cats/bengal.jpg": {
+  "species": "Cat",
+  "breed": "Bengal",
+  "author": "Another one of my pictures:[[File:|150x150px]]\n\n\n\nThis photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image.\n\n\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bengal_-_19.jpg"
+ },
+ "/animals/cats/domestic_longhair.jpg": {
+  "species": "Cat",
+  "breed": "Domestic Longhair",
+  "author": "Pilarbini",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_domestic_longhair_cat.jpg"
+ },
+ "/animals/cats/british_shorthair.jpg": {
+  "species": "Cat",
+  "breed": "British Shorthair",
+  "author": "Jakub Hałun",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:20170604_kot_na_wystawie_w_Krakowie_7971.jpg"
+ },
+ "/animals/cats/abyssinian.jpg": {
+  "species": "Cat",
+  "breed": "Abyssinian",
+  "author": "Karin Langner-Bahmann",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustav_chocolate.jpg"
+ },
+ "/animals/cats/sphynx.jpg": {
+  "species": "Cat",
+  "breed": "Sphynx",
+  "author": "Dmitry Makeev",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cat_Sphynx._Kittens._img_11.jpg"
+ },
+ "/animals/rabbits/holland_lop.jpg": {
+  "species": "Rabbit",
+  "breed": "Holland Lop",
+  "author": "Kippo44",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_grey_holland_lop_rabbit.jpg"
+ },
+ "/animals/rabbits/rex.jpg": {
+  "species": "Rabbit",
+  "breed": "Rex",
+  "author": "PD-user-en/Mr. Rex",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Broken_Castor_Rex_Rabbit.JPG"
+ },
+ "/animals/rabbits/flemish_giant.jpg": {
+  "species": "Rabbit",
+  "breed": "Flemish Giant",
+  "author": "Pierre André",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Houplin-Ancoisne_lapin_du_le_parc_Mosa%C3%AFc_en_2020.jpg"
+ },
+ "/animals/birds/budgerigar_budgie.jpg": {
+  "species": "Bird",
+  "breed": "Budgerigar (Budgie)",
+  "author": "Miguel Angel Omaña Rojas",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Escaped_pet_Budgerigar_in_Nuevo_Laredo.jpg"
+ },
+ "/animals/birds/lovebird.jpg": {
+  "species": "Bird",
+  "breed": "Lovebird",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rosy-faced_lovebird_(Agapornis_roseicollis_roseicollis).jpg"
+ },
+ "/animals/birds/african_grey_parrot.jpg": {
+  "species": "Bird",
+  "breed": "African Grey Parrot",
+  "author": "African_Grey_Parrot,_peeking_out_from_under_its_wing.jpg: Avenue\nderivative work: Avenue (talk)",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:African_Grey_Parrot,_peeking_out_from_under_its_wing_-_edit.jpg"
+ },
+ "/animals/birds/canary.jpg": {
+  "species": "Bird",
+  "breed": "Canary",
+  "author": "Mounir Neddi",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Domestic_canary_from_Morocco.jpg"
+ },
+ "/animals/birds/macaw.jpg": {
+  "species": "Bird",
+  "breed": "Macaw",
+  "author": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Red-and-green_macaw_(Ara_chloropterus)_juvenile.JPG"
+ },
+ "/animals/fish/betta.jpg": {
+  "species": "Fish",
+  "breed": "Betta",
+  "author": "Bernard Ladenthin",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Siamese_fighting_fish_(Betta_splendens)_female_orange.JPG"
+ },
+ "/animals/fish/guppy.jpg": {
+  "species": "Fish",
+  "breed": "Guppy",
+  "author": "Holger Krisp",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Guppy_Poecilia_reticulata.jpg"
+ },
+ "/animals/fish/tetra.jpg": {
+  "species": "Fish",
+  "breed": "Tetra",
+  "author": "Holger Krisp",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Neonsalmler_Paracheirodon_innesi.jpg"
+ },
+ "/animals/reptiles/bearded_dragon.jpg": {
+  "species": "Reptile",
+  "breed": "Bearded Dragon",
+  "author": "jjron",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eastern-Bearded-Dragon-2.2,-Vic,-3.1.2008.jpg"
+ },
+ "/animals/reptiles/ball_python.jpg": {
+  "species": "Reptile",
+  "breed": "Ball Python",
+  "author": "HCA (talk)",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ball_python_lucy.JPG"
+ },
+ "/animals/reptiles/red_eared_slider_turtle.jpg": {
+  "species": "Reptile",
+  "breed": "Red-Eared Slider Turtle",
+  "author": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Red-eared_sliders_and_Mallard_in_Golden_Gate_Park_1.jpg"
+ },
+ "/animals/small_mammals/hamster.jpg": {
+  "species": "Small Mammal",
+  "breed": "Hamster",
+  "author": "Augustus Binu : flickr : Instagram",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Baby_Hamster_-_2_Weeks_Old.jpg"
+ },
+ "/animals/small_mammals/guinea_pig.jpg": {
+  "species": "Small Mammal",
+  "breed": "Guinea Pig",
+  "author": "Gzen92",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cochon_d%27Inde_(Cavia_porcellus)_(2).jpg"
+ },
+ "/animals/small_mammals/ferret.jpg": {
+  "species": "Small Mammal",
+  "breed": "Ferret",
+  "author": "Anthony O'Neil",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pet_ferret_-_geograph.org.uk_-_8007550.jpg"
+ },
+ "/animals/small_mammals/chinchilla.jpg": {
+  "species": "Small Mammal",
+  "breed": "Chinchilla",
+  "author": "Trurl66",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Chinchilla_lanigera1.jpg"
+ },
+ "/animals/small_mammals/gerbil.jpg": {
+  "species": "Small Mammal",
+  "breed": "Gerbil",
+  "author": "Meriones_unguiculatus_1.jpg: Alastair Rae from London, United Kingdom\nderivative work: Berichard (talk)",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Meriones_unguiculatus_2.jpg"
+ }
+}
